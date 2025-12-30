@@ -1,7 +1,7 @@
 # 🖼️ Lenticular - Productos Interactivos 3D
 
 **Estado:** 🔵 Planificación (Fase: Prototipado)
-**Prioridad:** 🟡 MEDIA
+**Prioridad:** 🟢 BAJA
 **Progreso:** 5% → 20% (objetivo: validar prototipos)
 **Última actualización:** Dic 30, 2024
 

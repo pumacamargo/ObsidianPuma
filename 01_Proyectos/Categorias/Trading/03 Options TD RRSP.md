@@ -1,7 +1,7 @@
 # 💼 Options Trading TD - RRSP
 
 **Estado:** 🔴 En Investigación (Aguardando confirmación de TD)
-**Prioridad:** 🟡 MEDIA
+**Prioridad:** 🟢 BAJA
 **Progreso:** 10%
 
 ---

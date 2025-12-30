@@ -1,7 +1,7 @@
 # 🎮 Live Streaming Game - Interactive Multiplayer
 
 **Estado:** 🔵 Planificación
-**Prioridad:** 🟡 MEDIA
+**Prioridad:** 🟢 BAJA
 **Progreso:** 15%
 
 ---

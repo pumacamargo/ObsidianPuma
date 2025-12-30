@@ -1,7 +1,7 @@
 # 👤 Original Character - Serie Infantil
 
 **Estado:** 🔵 Planificación
-**Prioridad:** 🟡 MEDIA
+**Prioridad:** 🟢 BAJA
 **Progreso:** 5%
 
 ---

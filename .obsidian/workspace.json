@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Welcome.md",
+                "file": "01_Proyectos/Dashboard.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Welcome"
+              "title": "Dashboard"
             }
           }
         ]
@@ -185,18 +185,26 @@
   },
   "active": "81c294c5acc30b3a",
   "lastOpenFiles": [
+    "01_Proyectos/Notas de Progreso.md",
+    "01_Proyectos/Prioridades.md",
+    "01_Proyectos/Dashboard.md",
     "Tareas Globales.md",
-    "CLAUDE.md",
+    "01_Proyectos/Ideas.md",
+    "02_Notebook/Ideas.md",
+    "01_Proyectos/Checklist Diario Telegram Bot.md",
+    "01_Proyectos/Categorias/Trading/Checklist Diario Telegram Bot.md",
+    "01_Proyectos/Categorias/Trading/Trading Journal.md",
+    "01_Proyectos/Trading Journal.md",
+    "01_Proyectos/README.md",
+    "doc/CLAUDE.md",
+    "doc",
+    "Welcome.md",
     "01_Proyectos/Categorias/Service/01 AI Agency.md",
     "01_Proyectos/Categorias/Service/00 Service.md",
     "01_Proyectos/Categorias/Content Creation/05 Haz Dinero con AI.md",
     "01_Proyectos/Categorias/Content Creation/01 TiktokShop Affiliate AI.md",
     "01_Proyectos/Categorias/Content Creation/05 Live Streaming Character.md",
     "01_Proyectos/Categorias/Content Creation/00 Content Creation.md",
-    "01_Proyectos/Notas de Progreso.md",
-    "01_Proyectos/Ideas.md",
-    "01_Proyectos/Dashboard.md",
-    "01_Proyectos/Checklist Diario Telegram Bot.md",
     "01_Proyectos/Categorias/Ecommerce/00 Ecommerce.md",
     "01_Proyectos/Categorias/Commerce/03 Impresiones 3D.md",
     "01_Proyectos/Categorias/Commerce/02 Bolsas Mexicanas.md",
@@ -204,22 +212,14 @@
     "01_Proyectos/Categorias/Ecommerce/05 TiktokShop Seller.md",
     "01_Proyectos/Categorias/Ecommerce/04 Dropshipping.md",
     "01_Proyectos/Categorias/Ecommerce/03 Kids Craft.md",
-    "01_Proyectos/Categorias/Ecommerce/02 Kitchen Cardboard.md",
-    "01_Proyectos/Categorias/Ecommerce/01 Lenticular.md",
-    "01_Proyectos/Categorias/Service/02 WebPage B2B.md",
-    "01_Proyectos/Categorias/Commerce/00 Commerce.md",
     "01_Proyectos/Categorias/Commerce",
     "01_Proyectos/Categorias/Ecommerce",
     "01_Proyectos/Categorias/Service",
-    "01_Proyectos/Categorias/Content Creation/04 Live Streaming Game.md",
-    "01_Proyectos/Categorias/Content Creation/03 Original Character.md",
-    "01_Proyectos/Categorias/Content Creation/02 Story 3D Animator.md",
     "01_Proyectos/Categorias/Content Creation",
     "01_Proyectos/Categorias/Trading",
     "01_Proyectos/Categorias/Proyectos de Trading",
     "01_Proyectos/Categorias",
     "Dashboard.md.tmp.21828.1766929926600",
-    "Dashboard.md.tmp.21828.1766929481740",
-    "files"
+    "Dashboard.md.tmp.21828.1766929481740"
   ]
 }

@@ -149,5 +149,5 @@ Documentar cada trade ejecutado para análisis, aprendizaje y validación de est
 ---
 
 ## 🔗 Referencias
-- [[Categorias/Trading]] - Estrategia Wheel completa
-- [[Dashboard]] - Estado general de proyectos
+- [[00 Trading]] - Estrategia Wheel completa
+- [[../../Dashboard]] - Estado general de proyectos

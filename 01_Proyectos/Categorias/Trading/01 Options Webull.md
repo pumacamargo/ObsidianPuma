@@ -1,7 +1,7 @@
 # ✅ Options Trading Webull - Wheel Strategy
 
 **Estado:** ✅ Activo (Operando posiciones reales)
-**Prioridad:** 🔴 ALTA
+**Prioridad:** 🔴 MÁXIMA
 **Progreso:** 70% (Prototipo terminado, trading activo)
 
 ---

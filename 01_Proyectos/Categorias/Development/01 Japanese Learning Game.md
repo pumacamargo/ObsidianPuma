@@ -2,7 +2,7 @@
 
 **Nombre de trabajo:** Robot Rescue
 **Estado:** 🔵 Planificación (Fase: Pre-Development)
-**Prioridad:** 🟡 MEDIA (↑ Proyecto principal Development)
+**Prioridad:** 🟢 BAJA
 **Progreso:** 5% → 30% (objetivo: MVP Act 1 en Itch.io)
 **Última actualización:** Dic 30, 2024
 

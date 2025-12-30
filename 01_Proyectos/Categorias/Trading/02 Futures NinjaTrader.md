@@ -1,7 +1,7 @@
 # 🤖 Quantum Liberty - MNQ Futures Trading Bot
 
 **Estado:** 🟡 En Pivot (Simplificación)
-**Prioridad:** 🔴 ALTA
+**Prioridad:** 🟡 MEDIA
 **Progreso:** 35% (Framework base existente, pivotando a estrategias simples)
 
 ---

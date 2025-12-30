@@ -1,7 +1,7 @@
 # 📦 Dropshipping - Modelo Dual (Venta Directa + Afiliados)
 
 **Estado:** 🔵 Planificación (Fase: Product Hunting & Testing)
-**Prioridad:** 🟡 MEDIA
+**Prioridad:** 🟢 BAJA
 **Progreso:** 10% → 40% (objetivo: 1 producto ganador validado)
 **Plataformas:** Shopify + TikTok Shop + Programa de Afiliados
 **Última actualización:** Dic 30, 2024

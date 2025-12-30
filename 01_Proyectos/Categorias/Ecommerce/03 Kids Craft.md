@@ -1,7 +1,7 @@
 # 🎨 Kids Craft AI - Diseños Digitales Generados con IA
 
 **Estado:** 🔵 Planificación (Fase: Prototipado)
-**Prioridad:** 🟡 MEDIA (↑ Alto potencial digital)
+**Prioridad:** 🟢 BAJA
 **Progreso:** 5% → 30% (objetivo: 20 diseños validados + proceso automatizado)
 **Hardware:** Cricut Portrait 4 (para validación)
 **Última actualización:** Dic 30, 2024

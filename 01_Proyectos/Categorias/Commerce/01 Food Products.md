@@ -1,7 +1,7 @@
 # 🌮 Food Products - Comida Mexicana en Osaka
 
 **Estado:** 🔵 Planificación (Fase: Farmers Market Validation)
-**Prioridad:** 🟡 MEDIA (↑ Focus principal Commerce)
+**Prioridad:** 🟢 BAJA
 **Progreso:** 5% → 40% (objetivo: 1 producto ganador validado)
 **Ubicación:** Osaka, Japón
 **Timeline:** 4-6 semanas para farmers market test

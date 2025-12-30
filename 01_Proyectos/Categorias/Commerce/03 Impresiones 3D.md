@@ -1,6 +1,6 @@
 # 🖨️ Impresiones 3D - Toys para Niños
 
-**Estado:** 🔵 Planificación (Fase: Product Design & Testing) | **Prioridad:** 🟢 BAJA → 🟡 MEDIA | **Progreso:** 10% → 40%
+**Estado:** 🔵 Planificación (Fase: Product Design & Testing) | **Prioridad:** 🟢 BAJA | **Progreso:** 10% → 40%
 
 ---
 

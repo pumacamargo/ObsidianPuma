@@ -47,7 +47,7 @@ Hub central de todos los proyectos de trading. Incluye opciones en Webull (Wheel
 ## 🔗 Documentos Relacionados
 - [[Trading Journal]] - Registro centralizado de todos los trades
 - [[Checklist Diario Telegram Bot]] - Verificaciones diarias automáticas
-- [[Dashboard]] - Estado general de todos los proyectos
+- [[../../Dashboard]] - Estado general de todos los proyectos
 
 ---
 

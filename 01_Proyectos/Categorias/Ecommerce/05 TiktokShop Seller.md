@@ -1,7 +1,7 @@
 # 🛍️ TiktokShop Seller
 
 **Estado:** 🔵 Planificación
-**Prioridad:** 🟡 MEDIA
+**Prioridad:** 🟢 BAJA
 **Progreso:** 15%
 
 ---

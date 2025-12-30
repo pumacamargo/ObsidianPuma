@@ -1,7 +1,7 @@
 # 🎨 Mexican Design Products - Aesthetic Selling in Japan
 
 **Estado:** 🔵 Planificación (Fase: Product Research & Sourcing)
-**Prioridad:** 🟡 MEDIA
+**Prioridad:** 🟢 BAJA
 **Progreso:** 5% → 25% (objetivo: 3-5 productos core identificados)
 **Ubicación:** Osaka, Japan (local sales + potential online)
 **Estrategia:** Vender diseño/belleza, NO mexicanidad

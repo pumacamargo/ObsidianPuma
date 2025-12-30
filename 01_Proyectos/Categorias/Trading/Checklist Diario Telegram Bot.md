@@ -1,4 +1,4 @@
-# 📱 Checklist Diario - Telegram Bot
+/# 📱 Checklist Diario - Telegram Bot
 
 ## Propósito
 Registro diario de lo que el bot de Telegram debe revisar y alertarte, y checklist manual para antes de operar.
@@ -187,6 +187,6 @@ Para automatizar algunas alertas, considera:
 ---
 
 ## 📚 Referencias
-- [[Categorias/Trading]] - Reglas de la estrategia
+- [[00 Trading]] - Reglas de la estrategia
 - [[Trading Journal]] - Registro de trades
-- [[Dashboard]] - Estado general
+- [[../../Dashboard]] - Estado general

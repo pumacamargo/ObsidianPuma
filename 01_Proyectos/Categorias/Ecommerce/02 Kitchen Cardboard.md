@@ -1,7 +1,7 @@
 # 🍳 Kitchen Cardboard - Juguetes Modulares de Cartón
 
 **Estado:** 🔵 Planificación (Fase: Prototipado)
-**Prioridad:** 🟡 MEDIA (↑ Proyección alto potencial)
+**Prioridad:** 🟢 BAJA
 **Progreso:** 5% → 25% (objetivo: cocina prototipo + 2 módulos adicionales)
 **Última actualización:** Dic 30, 2024
 

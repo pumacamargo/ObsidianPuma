@@ -1,7 +1,7 @@
 # 🎬 Story 3D Animator
 
 **Estado:** 🔵 Planificación
-**Prioridad:** 🟡 MEDIA
+**Prioridad:** 🟢 BAJA
 **Progreso:** 10%
 
 ---
