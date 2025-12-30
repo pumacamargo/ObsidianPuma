@@ -1,36 +1,45 @@
-# 📊 Documental Emprendedor - "1 Dólar de Profit Más"
+# 📊 Canal YouTube - "Haz Dinero con IA"
 
-**Estado:** 🔵 Planificación
-**Prioridad:** 🔴 ALTA
-**Progreso:** 5%
+**Estado:** 🟡 En Progreso
+**Prioridad:** 🔴 MÁXIMA
+**Progreso:** 5% → 40%
 
 ---
 
 ## 📋 Resumen Ejecutivo
 
-Canal de YouTube documentando **tu travesía completa emprendedora**: Desde idea hasta monetización, mostrando todos los proyectos que estás intentando (TiktokShop, Story Animator, Original Characters, Live Games, etc).
-
-**Concepto Central:** "¿Es posible hacer $1 USD de profit más que ayer?" Documental honesto sobre:
-- ✅ Qué funciona (con datos reales)
-- ❌ Qué falla (sin suavizar fracasos)
-- 💰 Cuánto ganaste/perdiste cada día
-- 📈 Gráfico de progreso real
+Canal de YouTube documentando **tu viaje emprendedor con IA y múltiples proyectos simultáneamente**. Concepto honesto mostrando:
+- ✅ Qué funciona (datos reales)
+- ❌ Qué falla (transparencia total)
+- 💰 Cuánto ganaste/perdiste
+- 📈 Progreso visible en gráficos
 - 🔥 Lecciones aprendidas en vivo
 
-**Diferenciador:** No es un video de "gane $100k en 30 días" falso. Es transparencia total: Mostrar el viaje real, messy, con fracasos y pequeñas victorias.
+**Diferenciador Principal:** No eres "guru" vendiendo cursos falsos. Eres un experimentador documentando qué REALMENTE funciona con IA y trading.
+
+**Estructura de 4 Pilares:**
+1. **PILAR 1 (40%):** Wheel Strategy Trading - Documentar cada trade
+2. **PILAR 2 (30%):** TikTok Affiliate AI - Crear 50 videos + resultados
+3. **PILAR 3 (20%):** AI Tools & Automation - Cómo uso Claude, ChatGPT, etc.
+4. **PILAR 4 (10%):** Otros Experimentos - Nuevos proyectos, pivots, fracasos
 
 ---
 
 ## 🎯 Objetivo Principal
 
-✅ Documentar TODOS tus proyectos en movimiento
-✅ Mostrar datos financieros REALES (no fake)
-✅ Publicar 2-3 videos/semana durante 6-12 meses
-✅ Crear comunidad de emprendedores (viewers se sienten identificados)
-✅ Monetizar el canal mismo (YouTube ads + sponsorships)
-✅ Generar $500+/mes con el documental
-✅ Validar cuáles proyectos realmente funcionan
-✅ Convertir viewers en colaboradores/socios
+**Primeros 6 Meses:**
+✅ Documentar Wheel Strategy + TikTok Affiliate + AI Tools
+✅ Publicar 2-3 videos/semana (consistencia)
+✅ Mostrar datos REALES (no fake hype)
+✅ Alcanzar 10K+ suscriptores
+✅ Activar monetización YouTube
+✅ Generar $500-700/mes con el canal
+
+**Largo Plazo:**
+✅ Convertir canal en plataforma de credibilidad
+✅ Validar qué proyectos REALMENTE funcionan
+✅ Diversificar ingresos (ads + sponsors + affiliate)
+✅ Tener base para lanzar AI Agency (mes 6+)
 
 ---
 
@@ -44,6 +53,106 @@ Canal de YouTube documentando **tu travesía completa emprendedora**: Desde idea
 | Setup de tracking (datos diarios) | 🔵 Planificación |
 | Lanzamiento en YouTube | 🔵 Planificación |
 | Escalar a 10k+ suscriptores | 🔵 Planificación |
+
+---
+
+## 🏛️ Los 4 Pilares del Canal
+
+### Pilar 1: WHEEL STRATEGY (40% del contenido - MES 1-3 FOCUS)
+
+**Qué documenter:**
+- Entrada a cada trade (por qué elegí este ticker, strike, etc)
+- Updates semanales (cómo va la posición)
+- Cierre y resultados (ganancia/pérdida + análisis)
+- Lecciones aprendidas (qué mejorar)
+
+**Videos típicos:**
+- "Entré en PLTR a $28.50 - Aquí está mi análisis"
+- "Semana 1 de Wheel: -$100 a $0 (qué aprendí)"
+- "Gané $50 en QS - Cómo salí en el punto correcto"
+- "Mi Trade Journal en Google Sheets (template gratis)"
+- "Por qué Wheel > otras estrategias"
+
+**Potencial:** 1-2 trades/mes × 4 videos/trade = 4-8 videos/mes
+
+---
+
+### Pilar 2: TIKTOK AFFILIATE AI (30% del contenido)
+
+**Qué documentar:**
+- Proceso de product hunting (qué criterios uso)
+- Batch creation (cómo creé 50 videos)
+- Resultados reales (views, clicks, comisiones)
+- A/B testing (qué funciona, qué no)
+
+**Videos típicos:**
+- "Cómo crear 50 videos TikTok en 2 días (SIN CARA)"
+- "Primeras comisiones en TikTok Shop: $X"
+- "Este producto vendió, este no - Análisis"
+- "Template de video que uso (reutilizable)"
+- "Affiliate AI: mes 1 resultados"
+
+**Potencial:** 2-3 videos/mes de TikTok progress
+
+---
+
+### Pilar 3: AI TOOLS & AUTOMATION (20% del contenido)
+
+**Qué documenta:**
+- Cómo usas Claude para trading decisions
+- Cómo usas ChatGPT para scripts
+- Cómo usas CapCut AI para edición
+- Herramientas de N8N, Make.com, etc
+
+**Videos típicos:**
+- "Usé Claude para analizar mis trades (esto pasó)"
+- "CapCut AI edita mis videos en 5 minutos"
+- "Cómo automatizar tareas con N8N"
+- "Mis 5 herramientas IA favoritas"
+
+**Potencial:** 1-2 videos/mes de AI tools
+
+---
+
+### Pilar 4: OTROS EXPERIMENTOS (10% del contenido)
+
+**Qué documentar:**
+- Nuevos proyectos que pruebas
+- Fracasos y por qué fallaron
+- Pivots basados en resultados
+- Colaboraciones
+
+**Videos típicos:**
+- "Intenté [nuevo proyecto] - aquí pasó"
+- "Dejé [proyecto] porque..."
+- "Colaboración con [creator]"
+- "Análisis de fracaso: lecciones"
+
+---
+
+## 📊 Distribución Semanal (Ejemplo 3 videos/semana)
+
+```
+SEMANA 1:
+├─ Lunes: Wheel Strategy Update (Pilar 1)
+├─ Miércoles: TikTok Affiliate Progress (Pilar 2)
+└─ Viernes: AI Tool Tutorial (Pilar 3)
+
+SEMANA 2:
+├─ Lunes: Wheel Deep Dive - Trade Breakdown (Pilar 1)
+├─ Miércoles: TikTok Results: Ganancias (Pilar 2)
+└─ Viernes: Nuevo Experimento (Pilar 4)
+
+SEMANA 3:
+├─ Lunes: Wheel - Semana Completa Resultados (Pilar 1)
+├─ Miércoles: Money Report (mezcla todos pilares)
+└─ Viernes: AI Tool Deep Dive (Pilar 3)
+
+SEMANA 4:
+├─ Lunes: Wheel Lessons Learned (Pilar 1)
+├─ Miércoles: TikTok Strategy Adjustment (Pilar 2)
+└─ Viernes: Fracaso Analysis o Colaboración (Pilar 4)
+```
 
 ---
 
@@ -368,33 +477,52 @@ Año 1: $10,000-18,000 potencial
 ## 📋 Temas de Videos (Primer Mes)
 
 ### Semana 1
-- [ ] **Video Piloto:** "¿Puedo hacer $1 más que ayer? (Mi Plan)"
-  - Presenta los 5 proyectos
-  - Cuál es la meta
-  - Por qué esto es diferente
+- [ ] **Video Intro:** "Haz Dinero con IA - Mi Plan (Wheel + TikTok + AI Tools)"
+  - Presenta los 4 pilares
+  - Meta: $1K/mes en 6 meses
+  - Por qué esto es diferente (honestidad + datos)
+
+- [ ] **Wheel Strategy 101:** "Qué es Wheel Strategy y por qué la elegí"
+  - Explicación simple
+  - Primer trade en preparación
+  - Por qué funciona
+
+- [ ] **AI Tools I Use:** "Cómo uso Claude para ayudarme con trading"
+  - Ejemplo real
+  - Por qué AI es importante aquí
 
 ### Semana 2
-- [ ] **Money Report #1:** "Primera Semana - ¿Gané dinero?"
-  - Estado de cada proyecto
-  - Cuánto horas invertiste
-  - Ganancias (probablemente $0-50)
+- [ ] **Money Report #1:** "Semana 1: -$100 a $0 (qué pasó)"
+  - P&L actual en Webull
+  - Horas invertidas
+  - Lecciones aprendidas
+
+- [ ] **TikTok Prep:** "Voy a crear 50 videos TikTok (sin cara) - Plan"
+  - Product hunting process
+  - Template que voy a usar
+  - Por qué SIN cara funciona
 
 ### Semana 3
-- [ ] **Deep Dive:** "Creé 50 videos de TiktokShop - Aquí están los resultados"
-  - Cuántos views
-  - Cuánto dinero
-  - Análisis de lo que funcionó
+- [ ] **Trade Breakdown:** "Mi primer trade cerrado: Gané/Perdí $X"
+  - Entrada y salida
+  - Análisis por qué sucedió
+  - Qué haría diferente
+
+- [ ] **TikTok Batch Creation:** "Creé 50 videos TikTok en 2 días - Aquí está cómo"
+  - Template en CapCut
+  - ChatGPT para scripts
+  - Time-lapse del proceso
 
 ### Semana 4
-- [ ] **Failure Analysis:** "Este proyecto FALLÓ (y aquí está por qué)"
-  - Original Character no está vendiendo merch
-  - O Live Game tiene bugs
-  - Lecciones honestas
+- [ ] **Wheel Analysis:** "Semana 1-4: Win rate, análisis, próximos pasos"
+  - Dashboard de resultados
+  - Qué tickers funcionan mejor
+  - Reemplazo de F por PLTR (por qué)
 
-### Semana 5
-- [ ] **Milestone:** "¡Conseguí mi PRIMER DINERO! ($47)"
-  - Celebración genuina
-  - Breakdown de dónde vino
+- [ ] **TikTok Results:** "Publiqué 50 videos - Primeras comisiones y views"
+  - Resultados reales
+  - Qué videos funcionaron
+  - Strategy ajustment para próximas 50
 
 ---
 
@@ -492,29 +620,77 @@ Año 1: $10,000-18,000 potencial
 
 ## 🚀 Roadmap 12 Meses
 
-### Meses 1-3: Validación
-- Producir 8-12 videos
-- Alcanzar 1k-5k suscriptores
-- Validar formato (qué resonó)
-- Primeros $100-300 en ads
+### Meses 1-3: Validación - WHEEL PILAR CENTRAL (40% contenido)
+**Focus:** Wheel Strategy + TikTok Affiliate intro
+- [ ] Producir 12-15 videos (3/semana)
+  - 40% Wheel (4-6 videos): Trade breakdown, analysis, lessons
+  - 30% TikTok (4-5 videos): Product hunting, batch creation, results
+  - 20% AI Tools (2-3 videos): Claude for trading, CapCut AI
+  - 10% Otros (1-2 videos): Milestones, failures
+- [ ] Alcanzar 2k-5k suscriptores
+- [ ] Validar que Wheel documentation engacha audiencia
+- [ ] Primeros $50-150 en TikTok commissions
+- [ ] Ingresos YouTube: $0 (aún bajo límite monetización)
 
-### Meses 4-6: Growth
-- Producir 24+ videos
-- 5k-20k suscriptores
-- Activar AdSense
-- $500-1,000/mes en ads + affiliate
+**Resultados esperados:**
+- Wheel: 1-2 trades documentados = 4-8 videos
+- TikTok: 50 videos creados = 3-4 resumen videos
+- AI Tools: 2-3 tutorials
+- Total ingresos mes 3: $100-300
 
-### Meses 7-9: Optimization
-- Colaboraciones con creadores
-- Sponsors activos
-- 20k-50k suscriptores
-- $1,000-2,000/mes total
+---
 
-### Meses 10-12: Monetization Completa
-- 50k+ suscriptores
-- Libro/curso en desarrollo
-- $2,000-3,000+/mes
-- Decisión: ¿Es proyecto independiente o pivotear?
+### Meses 4-6: Growth - DIVERSIFICACIÓN (Wheel 35%, TikTok 35%, AI 20%, Otros 10%)
+**Focus:** Escalar TikTok, mantener Wheel consistencia, introducir nuevos experimentos
+- [ ] Producir 24-30 videos (3/semana)
+  - Wheel: Nuevos trades, análisis de win rate, mejoramientos
+  - TikTok: Batch 2 de 50 videos, optimization de lo que funciona
+  - AI Tools: Automatización, N8N, integrations
+  - Otros: Pruebas de nuevos proyectos (AI Agency prep, etc)
+- [ ] Alcanzar 8k-15k suscriptores
+- [ ] Activar AdSense monetización (10k subs + 4k watch hours)
+- [ ] TikTok commissions: $300-500/mes
+- [ ] Ingresos YouTube: $300-500/mes
+- [ ] **Total mes 6: $600-1,000/mes**
+
+**Resultados esperados:**
+- Wheel: Mostrar consistencia, win rate improvement
+- TikTok: Cambiar strategy si datos lo requieren
+- AI Tools: Portfolio pieces para future AI Agency
+- Otros: Validar si próximo proyecto vale
+
+---
+
+### Meses 7-9: Optimization - PREPARACIÓN PARA ESCALADO
+**Focus:** Mantener pilares actuales, preparar AI Agency launch
+- [ ] Colaboraciones con otros creadores (3-4 collaborations)
+- [ ] Buscar sponsors (N8N, Make.com, herramientas IA)
+- [ ] 20k-40k suscriptores
+- [ ] Ingresos: $1,000-1,500/mes
+  - Wheel: -$200 a +$500 (dependiendo trades)
+  - TikTok: $300-500
+  - YouTube ads + sponsors: $500-800
+- [ ] AI Agency: Primera landing page + positioning (sin clients aún)
+
+**Decisión clave:** ¿Mantener estos 4 pilares o pivotar completamente a AI Agency?
+
+---
+
+### Meses 10-12: Monetization Completa - FULL LAUNCH AI AGENCY
+**Focus:** Channel maduro, AI Agency genera ingresos principales
+- [ ] 40k-60k suscriptores
+- [ ] Sponsors activos (2-3 sponsors regulares)
+- [ ] Posible book/course sobre lo aprendido
+- [ ] Ingresos: $2,000-3,000/mes total
+  - YouTube + sponsors: $1,000-1,500
+  - TikTok affiliate: $300-500
+  - AI Agency (primeros clientes): $500-1,000
+  - Otros: $0-500
+
+**Decision point:**
+- **Opción A:** Convertir canal en negocio independiente (50k+ subs)
+- **Opción B:** Usar canal para crecer AI Agency, channel es soporte
+- **Opción C:** Combinar: Canal documenta AI Agency growth (infinite content)
 
 ---
 
@@ -538,28 +714,53 @@ Año 1: $10,000-18,000 potencial
 
 ## 📌 Próximos Pasos Inmediatos
 
-**Esta Semana:**
-- [ ] Decidir nombre del canal
+### Esta Semana (Semana 1)
+**Canal Setup:**
+- [ ] Nombre: "Haz Dinero con IA" (oficial)
 - [ ] Crear cuenta YouTube
 - [ ] Diseñar logo/branding basic
 - [ ] Hacer banner del canal
 
-**Próxima Semana:**
-- [ ] Grabar 3-4 videos piloto (sobre estado actual)
-- [ ] Editar con CapCut (gratis)
+**Content Prep:**
+- [ ] Grabar Video #1: "Mi Plan: Wheel + TikTok + AI Tools"
+- [ ] Grabar Video #2: "Wheel Strategy 101"
+- [ ] Grabar Video #3: "Cómo uso Claude para trading"
+
+### Próxima Semana (Semana 2)
+**Publishing:**
+- [ ] Editar 3 videos con CapCut
 - [ ] Optimizar thumbnails
-- [ ] Publicar primer video
+- [ ] Escribir descripciones con SEO
+- [ ] Publicar Video #1 (Lunes)
 
-**Semana 3:**
-- [ ] Publicar segundo video
-- [ ] Monitorear analytics
+**Execution:**
+- [ ] Setup Trading Journal (Google Sheets)
+- [ ] Preparar primer trade para documentar
+- [ ] Product hunting: 20 productos TikTok Shop
+
+### Semana 3
+**Content:**
+- [ ] Publicar Video #2 (Miércoles)
+- [ ] Publicar Video #3 (Viernes)
+- [ ] Monitorear analytics de 3 videos
 - [ ] Responder comentarios
-- [ ] Ajustar según feedback
+- [ ] Grabar Video #4: "Money Report #1"
 
-**Semana 4:**
-- [ ] Tercero y cuarto video
-- [ ] Hacer dashboard visual
-- [ ] Setup automático de tracking
+**Execution:**
+- [ ] Cierre primer trade en Webull (documentar)
+- [ ] Comienza batch creation de 50 videos TikTok
+
+### Semana 4
+**Content:**
+- [ ] Publicar Video #4: "Money Report"
+- [ ] Grabar Video #5: "Trade Breakdown"
+- [ ] Grabar Video #6: "TikTok Batch Creation Process"
+- [ ] Monitorear tendencias (qué videos enganchan más)
+
+**Execution:**
+- Completa 50 videos TikTok
+- Comenzar a publicar en TikTok (2-3/día)
+- Setup tracking de comisiones TikTok
 
 ---
 

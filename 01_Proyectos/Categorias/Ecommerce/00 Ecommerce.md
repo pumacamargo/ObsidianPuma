@@ -9,24 +9,30 @@ Hub central para productos físicos y digitales. Objetivo: Monetizar múltiples 
 
 ### Productos Físicos
 
-#### 1. 🖼️ Lenticular
-- **Estado:** 🔵 Planificación | **Prioridad:** 🟢 BAJA | **Progreso:** 5%
-- **Meta:** Productos con efecto 3D
+#### 1. 🖼️ Lenticular (Prototipado)
+- **Estado:** 🔵 Planificación (Fase Prototipo) | **Prioridad:** 🟡 MEDIA | **Progreso:** 5% → 20%
+- **Meta:** 2 variantes 3D automatizadas (foto + video)
+- **Timeline:** 6-8 semanas para prototipos funcionales
 - 📄 **Detalles:** [[01 Lenticular]]
 
-#### 2. 📦 Kitchen Cardboard
-- **Estado:** 🔵 Planificación | **Prioridad:** 🟢 BAJA | **Progreso:** 5%
-- **Meta:** Organizadores eco-friendly
+#### 2. 🍳 Kitchen Cardboard (Prototipado)
+- **Estado:** 🔵 Planificación (Fase Prototipo) | **Prioridad:** 🟡 MEDIA | **Progreso:** 5% → 25%
+- **Meta:** Juguetes modulares de cartón para niños (cocina + expandible)
+- **Timeline:** 5-6 semanas para prototipo funcional
 - 📄 **Detalles:** [[02 Kitchen Cardboard]]
 
-#### 3. 🎨 Kids Craft
-- **Estado:** 🔵 Planificación | **Prioridad:** 🟢 BAJA | **Progreso:** 5%
-- **Meta:** Kits educativos para niños
+#### 3. 🎨 Kids Craft AI (Prototipado)
+- **Estado:** 🔵 Planificación (Fase Prototipo) | **Prioridad:** 🟡 MEDIA | **Progreso:** 5% → 30%
+- **Meta:** Diseños digitales para craft generados con IA (20+ validados)
+- **Timeline:** 6 semanas para vender en Etsy
+- **Hardware:** Cricut Portrait 4 (validación)
 - 📄 **Detalles:** [[03 Kids Craft]]
 
-#### 4. 📦 Dropshipping
-- **Estado:** 🔵 Planificación | **Prioridad:** 🟢 BAJA | **Progreso:** 10%
-- **Meta:** Vender trending products
+#### 4. 📦 Dropshipping - Modelo Dual (Prototipado)
+- **Estado:** 🔵 Planificación (Fase: Product Hunting) | **Prioridad:** 🟡 MEDIA | **Progreso:** 10% → 40%
+- **Meta:** 1 producto ganador + programa de afiliados
+- **Plataformas:** Shopify + TikTok Shop + Programa Afiliados
+- **Timeline:** 6 semanas para 1 producto ganador
 - 📄 **Detalles:** [[04 Dropshipping]]
 
 #### 5. 🛍️ TiktokShop Seller
@@ -51,17 +57,23 @@ Hub central para productos físicos y digitales. Objetivo: Monetizar múltiples 
 
 ## 📋 Categoría Productos Físicos
 
-### Lenticular
-- **Estado:** 🔵 Planificación
-- **Prioridad:** 🟢 BAJA
-- **Progreso:** 5%
-- **Descripción:** Productos con efecto lenticular (tarjetas, posters)
-- **Tareas:**
-  - [ ] Investigar proveedores
-  - [ ] Crear diseños iniciales
-  - [ ] Hacer samples
-  - [ ] Setup en plataforma de venta
-- **Próximo Hito:** Primer prototipo ordenado
+### Lenticular - Productos Interactivos 3D
+- **Estado:** 🔵 Planificación (Fase: Prototipado)
+- **Prioridad:** 🟡 MEDIA (↑ Prioritario para validación)
+- **Progreso:** 5% → 20% (objetivo: 2 prototipos funcionales)
+- **Descripción:** Productos lenticulares generados con IA
+  - **Variante 1:** Foto → Imagen 3D estéreo (cada ojo ve perspectiva diferente)
+  - **Variante 2:** Video → Lenticular animado (movimiento reproduce video)
+- **Diferenciador:** Totalmente automatizado, calidad premium, experiencia única
+- **Tareas Fase 1:**
+  - [ ] Investigar herramientas IA para generación 3D
+  - [ ] Contactar proveedores de lentes lenticulares
+  - [ ] Obtener acceso a impresora
+  - [ ] Prototipo 3D estéreo (iteraciones)
+  - [ ] Prototipo video lenticular (iteraciones)
+  - [ ] Validar calidad y funcionalidad
+- **Próximo Hito:** Ambos prototipos funcionales + feedback usuarios
+- **Timeline Prototipado:** 6-8 semanas (Sprints 1-4)
 
 ---
 
