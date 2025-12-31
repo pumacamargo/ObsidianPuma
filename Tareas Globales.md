@@ -1,38 +1,74 @@
 # ✅ Tareas Globales
 
+**Alineadas con:** [[01_Proyectos/Prioridades]]
+
 ## 📋 Sistema de Tareas por Prioridad
 
-### 🔴 CRÍTICA - Esta Semana
+### 🔴 CRÍTICA - Esta Semana (7 Días)
 
-- [ ] **Trading:** Completar backtesting de Futures NinjaTrader
-- [ ] **Content:** Crear y publicar 5 videos TikTok (Wheel Strategy explainer)
-- [ ] **Content:** Investigar herramientas de animación 3D
-- [ ] **Trading:** Ejecutar primer Wheel trade en Webull
-- [ ] **Content:** Optimizar descripción TikTok Shop Affiliate
+**🔴 MÁXIMA PRIORIDAD (80% esfuerzo):**
+- [ ] **Trading (Webull):** Revisar posición F - ¿Cerrar y reemplazar por PLTR?
+- [ ] **Trading (Webull):** Setup Trading Journal (Google Sheets simple)
+- [ ] **Trading (Webull):** Documentar últimos 5 trades con P&L y notas
+- [ ] **Trading (Webull):** Usar Claude ANTES del próximo trade
 
-### 🟠 ALTA - Este Mes
+**🔴 MÁXIMA PRIORIDAD (20% esfuerzo):**
+- [ ] **YouTube:** Crear canal "1 Dólar Más" (branding + descripción)
+- [ ] **YouTube:** Escribir script Video #1: "Por qué empiezo trading con $3K"
+- [ ] **YouTube:** Grabar Video #1 (phone camera OK)
+- [ ] **YouTube:** Editar en CapCut
+- [ ] **YouTube:** Publicar Video #1
 
-- [ ] **Trading:** Alcanzar 10 trades exitosos en alguna estrategia
-- [ ] **Content:** Crear 20 videos para TikTok Shop (AI assisted)
-- [ ] **Content:** Publicar 5 streams de gaming/contenido
-- [ ] **Service:** Diseñar propuesta de servicios AI Agency
-- [ ] **Ecommerce:** Registrarse y publicar 50 productos en TikTokShop
+**🔴 ALTA (Paralelo):**
+- [ ] **TikTok Affiliate:** Investigar top 20 productos high-commission
+- [ ] **TikTok Affiliate:** Seleccionar 5 productos para test
+- [ ] **TikTok Affiliate:** Crear template reusable en CapCut
 
-### 🟡 MEDIA - Este Trimestre (Q1 2025)
+### 🟠 ALTA - Este Mes (Próximas 4 semanas)
 
-- [ ] **Content:** Crear personaje original (diseño completado)
-- [ ] **Learning:** Dominar Figma para diseño
-- [ ] **Ecommerce:** Lanzar dropshipping store
-- [ ] **Service:** Crear landing page de WebPage B2B
-- [ ] **Commerce:** Evaluar negocio de 3D Prints
+**Trading (Webull):**
+- [ ] Reemplazar F por PLTR (si no está hecho)
+- [ ] Ejecutar 4-6 trades durante el mes
+- [ ] Analizar: ¿Qué tickers tienen mejor IV/premium?
+- [ ] Doblar down en tickers ganadores
+- [ ] Mantener journal 100% documentado
 
-### 🟢 BAJA - Futuro (Q2+)
+**YouTube (Haz Dinero con AI):**
+- [ ] Video 2: "Mi setup: Webull + Wheel Strategy"
+- [ ] Video 3: "Trade #1 con Claude - gané/perdí $X"
+- [ ] Video 4: "Reemplacé F por PLTR - esto pasó"
+- [ ] Video 5: "Semana 1 resultados: $X P&L"
+- [ ] Video 6: "Mi Trading Journal (template gratis)"
+- [ ] Video 7: "Top 5 errores en options"
+- [ ] Video 8: "Análisis semanal de trades"
+- [ ] Meta: 3 videos/semana (Lunes, Miércoles, Viernes)
 
-- [ ] **Service:** Lanzar AI Agency (MVP)
-- [ ] **Learning:** Alcanzar nivel N4 en japonés
-- [ ] **Ecommerce:** Lanzar curso de AI Video
-- [ ] **Commerce:** Comenzar producción de Nachos
-- [ ] **Ecommerce:** Publicar juego indie
+**TikTok Affiliate:**
+- [ ] Product hunting completado
+- [ ] Batch creation: 50 videos en 2-3 días
+- [ ] Publicar 2-3 videos/día (mañana, tarde, noche)
+- [ ] Monitorear engagement en primeros 3 días
+
+### 🟡 MEDIA - Este Trimestre (Pausado hasta Mes 6)
+
+**Cuando Trading + YouTube estén consistentes ($300-500/mes cada uno):**
+- [ ] **NinjaTrader:** Comenzar backtesting (mes 6+)
+- [ ] **AI Agency:** Investigar propuesta (mes 6+)
+- [ ] **WebPage B2B:** Crear 3 demo sites (mes 4-6)
+- [ ] **TD RRSP:** Confirmar con TD si permite operaciones (mes 6+)
+- [ ] **Trading Journal Webapp:** Especificación técnica (mes 3+)
+
+### 🟢 BAJA - Pausado (Revisar en Mes 6+)
+
+**NO INICIAR AHORA - PAUSADOS:**
+- ⏸️ **Story 3D Animator** (learning curve 3-6 meses)
+- ⏸️ **Original Character** (requiere audiencia primero)
+- ⏸️ **Live Streaming Game** (tech complexity)
+- ⏸️ **Ecommerce** (todos - requieren capital)
+- ⏸️ **Commerce** (todos - requieren capital/tiempo)
+- ⏸️ **Japanese Learning Game** (hobby after month 6)
+
+**Razón:** 2 proyectos máximo = ENFOQUE TOTAL. Ver [[01_Proyectos/Prioridades]] para análisis completo.
 
 ---
 
