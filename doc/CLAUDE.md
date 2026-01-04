@@ -240,6 +240,14 @@ When documenting monetization:
 - Folder structure matters for navigation
 - `.obsidian/` folder contains config (don't edit directly)
 
+### 🔧 Editing Files While Obsidian is Open
+- **YES, I can edit files while Obsidian is open** using Edit tool
+- If Edit tool fails with "File unexpectedly modified", use bash `cat >` command instead
+- When using bash command: Read file first, then completely rewrite with `cat >` or `cat <<'EOF'`
+- Obsidian will auto-refresh when file changes are detected
+- **Best practice:** Use Edit tool first; only use bash if Edit tool fails
+- No need to close Obsidian before making changes from Claude
+
 ### Language
 - Repository uses **Spanish** for project docs
 - Use Spanish headers, Spanish descriptions
@@ -287,23 +295,31 @@ When documenting monetization:
 
 ## 📊 Current State Summary
 
-**Last Updated:** 01 JAN 2026 (ACTUALIZADO)
+**Last Updated:** 03 JAN 2026 (ACTUALIZADO)
 
 ### Active Work Areas (REAL-TIME)
-- **Trading (Webull):** 75% documented, **2 contratos activos** (QS $10 + $11 strikes)
-  - Prima total: $235.60
-  - Ganancia objetivo: $82.46 (35% rule)
-  - Órdenes BTC automáticas: Activas
-  - Status: Monitoreo activo hasta 20 FEB 2026
-- **Content Creation:** 70% documented, planeo primeros videos
+- **Trading (Webull):** 95% documented, **WAIT & SEE strategy**
+  - 2 QS Puts activos (strikes $10 + $11)
+  - Prima total: $235.60 | Ganancia objetivo: $82.46 (35% rule)
+  - Órdenes BTC automáticas: Activas (GTC) hasta 20 FEB 2026
+  - **Estrategia POST-FEB 20:** Vender calls (Wheel Fase 2)
+  - Capital: $2,975.63 | Buying Power: $1,088.63
+  - Comprehensive doc: 01 Options Webull.md (800+ líneas con análisis completo)
+
+- **Content Creation (TikTok):** 40% documented, **producción orgánica activa**
+  - ✅ 1,000 followers alcanzados
+  - Enfoque: 20-30 videos de calidad + interacción orgánica ENERO
+  - Aplicación TikTok Shop: FEB 10-15 (después de 30+ videos + engagement)
+  - No aplicar inmediatamente (riesgo shadowban)
+
 - **Service, Ecommerce, Commerce:** 20-30% documented, pausados
 
-### Priority Next Steps (ACTUALIZADO 01 JAN)
-1. ✅ Trading Ciclo #1 iniciado (2 contratos QS, órdenes BTC)
-2. ⏳ Setup Trading Journal (Google Sheets)
-3. ⏳ Crear canal YouTube "Haz Dinero con AI"
-4. ⏳ Investigar Margin Account en Webull (para mes 3+)
-5. ⏳ Expandir Service hub cuando Trading sea stable ($1-2K/mes)
+### Priority Next Steps (ACTUALIZADO 03 JAN)
+1. ✅ Trading Ciclo #1: WAIT & SEE hasta 20 FEB (órdenes BTC automáticas)
+2. 🟡 TikTok: Producir 20-30 videos ENERO + interacción orgánica
+3. ⏳ Setup Trading Journal (Google Sheets) - después FEB 20
+4. ⏳ Aplicar a TikTok Shop (FEB 10-15) con 30+ videos + engagement
+5. ⏳ POST-FEB: Decidir si comprar 100 QS shares o esperar
 
 ### Income Target
 **Combined:** $10,000+/month by month 12
@@ -360,13 +376,24 @@ These tools are referenced but not stored here:
 ---
 
 **System created by user + Claude Code collaboration**
-**Last revision:** 01 JAN 2026
-**Status:** Active, TRADING LIVE (Ciclo #1 iniciado, órdenes BTC configuradas)
+**Last revision:** 03 JAN 2026
+**Status:** Active - TRADING LIVE + TIKTOK PRODUCTION IN PROGRESS
 
-**Trading Status Snapshot (01 JAN 2026):**
+**Trading Status Snapshot (03 JAN 2026):**
 - 2 contratos QS activos (strikes $10 + $11)
-- Prima cobrada: $235.60
-- Órdenes de cierre automáticas: 2 BTC activas (GTC)
-- Ganancia objetivo: $82.46 (35% rule, ajustado por downtrend)
-- Próximo hito: 20 FEB 2026 (expiración)
-- Capital total: $3,088.63 | Sin margen (solo cash-secured)
+- Prima cobrada: $235.60 | Ganancia objetivo: $82.46 (35% rule)
+- Órdenes de cierre automáticas: 2 BTC activas (GTC) hasta 20 FEB
+- Estrategia: WAIT & SEE - monitorea órdenes, deja que funcionen
+- POST-FEB 20: Transición a Wheel Fase 2 (sell calls en 100 QS shares)
+- Capital actual: $2,975.63 | Buying Power: $1,088.63
+
+**TikTok Status Snapshot (03 JAN 2026):**
+- ✅ 1,000 followers alcanzados
+- Enfoque ENERO: 20-30 videos + interacción orgánica
+- Aplicación TikTok Shop: FEB 10-15 (con 30+ videos + engagement >3%)
+- Expectativa: Aprobación en 5-10 días | Monetización FEB 20+
+
+**Documentation Notes:**
+- Archivos pueden ser editados incluso con Obsidian abierto (Edit tool o bash)
+- Todos los documentos sincronizados vía git (commits después de cambios)
+- Sistema español + terminología técnica en inglés (mix aceptado)
