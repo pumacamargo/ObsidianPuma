@@ -1,153 +1,82 @@
-# ✅ Tareas Globales
+# ✅ Tareas Globales - Checklist Simplificado
 
-**Alineadas con:** [[01_Proyectos/Prioridades]]
-
-## 📋 Sistema de Tareas por Prioridad
-
-### 🔴 CRÍTICA - Esta Semana (7 Días)
-
-**🔴 MÁXIMA PRIORIDAD (80% esfuerzo):**
-- [ ] **Trading (Webull):** Revisar posición F - ¿Cerrar y reemplazar por PLTR?
-- [ ] **Trading (Webull):** Setup Trading Journal (Google Sheets simple)
-- [ ] **Trading (Webull):** Documentar últimos 5 trades con P&L y notas
-- [ ] **Trading (Webull):** Usar Claude ANTES del próximo trade
-
-**🔴 MÁXIMA PRIORIDAD (20% esfuerzo):**
-- [ ] **YouTube:** Crear canal "1 Dólar Más" (branding + descripción)
-- [ ] **YouTube:** Escribir script Video #1: "Por qué empiezo trading con $3K"
-- [ ] **YouTube:** Grabar Video #1 (phone camera OK)
-- [ ] **YouTube:** Editar en CapCut
-- [ ] **YouTube:** Publicar Video #1
-
-**🔴 ALTA (Paralelo):**
-- [ ] **TikTok Affiliate:** Investigar top 20 productos high-commission
-- [ ] **TikTok Affiliate:** Seleccionar 5 productos para test
-- [ ] **TikTok Affiliate:** Crear template reusable en CapCut
-
-### 🟠 ALTA - Este Mes (Próximas 4 semanas)
-
-**Trading (Webull):**
-- [ ] Reemplazar F por PLTR (si no está hecho)
-- [ ] Ejecutar 4-6 trades durante el mes
-- [ ] Analizar: ¿Qué tickers tienen mejor IV/premium?
-- [ ] Doblar down en tickers ganadores
-- [ ] Mantener journal 100% documentado
-
-**YouTube (Haz Dinero con AI):**
-- [ ] Video 2: "Mi setup: Webull + Wheel Strategy"
-- [ ] Video 3: "Trade #1 con Claude - gané/perdí $X"
-- [ ] Video 4: "Reemplacé F por PLTR - esto pasó"
-- [ ] Video 5: "Semana 1 resultados: $X P&L"
-- [ ] Video 6: "Mi Trading Journal (template gratis)"
-- [ ] Video 7: "Top 5 errores en options"
-- [ ] Video 8: "Análisis semanal de trades"
-- [ ] Meta: 3 videos/semana (Lunes, Miércoles, Viernes)
-
-**TikTok Affiliate:**
-- [ ] Product hunting completado
-- [ ] Batch creation: 50 videos en 2-3 días
-- [ ] Publicar 2-3 videos/día (mañana, tarde, noche)
-- [ ] Monitorear engagement en primeros 3 días
-
-### 🟡 MEDIA - Este Trimestre (Pausado hasta Mes 6)
-
-**Cuando Trading + YouTube estén consistentes ($300-500/mes cada uno):**
-- [ ] **NinjaTrader:** Comenzar backtesting (mes 6+)
-- [ ] **AI Agency:** Investigar propuesta (mes 6+)
-- [ ] **WebPage B2B:** Crear 3 demo sites (mes 4-6)
-- [ ] **TD RRSP:** Confirmar con TD si permite operaciones (mes 6+)
-- [ ] **Trading Journal Webapp:** Especificación técnica (mes 3+)
-
-### 🟢 BAJA - Pausado (Revisar en Mes 6+)
-
-**NO INICIAR AHORA - PAUSADOS:**
-- ⏸️ **Story 3D Animator** (learning curve 3-6 meses)
-- ⏸️ **Original Character** (requiere audiencia primero)
-- ⏸️ **Live Streaming Game** (tech complexity)
-- ⏸️ **Ecommerce** (todos - requieren capital)
-- ⏸️ **Commerce** (todos - requieren capital/tiempo)
-- ⏸️ **Japanese Learning Game** (hobby after month 6)
-
-**Razón:** 2 proyectos máximo = ENFOQUE TOTAL. Ver [[01_Proyectos/Prioridades]] para análisis completo.
+**Última actualización:** 03 JAN 2026 - Estrategia QS actualizada: WAIT & SEE hasta FEB 20
 
 ---
 
-## 📊 Patrón de Ejecución Sugerido
+## 🔴 HIGH PRIORITY - ESTA SEMANA
 
-### Estructura Semanal
-- **Monday-Tuesday:** Planning & Design (planificar semana)
-- **Wednesday-Thursday:** Execution (ejecutar tareas)
-- **Friday:** Review & Analysis (revisar resultados)
-- **Weekend:** Learning & Research (investigar y aprender)
+### Tramites (Personal) 🔴 URGENTE
+- [ ] Change Hanita name
+- [ ] Cancel Canada Costco
+- [ ] Call TD for RRSP
+- [ ] Call Amex to cancel
 
-### Diario - Enfoque
-1. **Morning:** 1-2 tareas de Trading
-2. **Midday:** 2-3 tareas de Content Creation
-3. **Evening:** 1 tarea de Learning u otra categoría
+### Trading Webull
+- [x] Órdenes BTC configuradas para 2 QS Puts (20 FEB 2026)
+- [ ] Monitorear órdenes diariamente (esperar cierre/asignación)
+- [ ] Setup Trading Journal (Google Sheets) - para después FEB 20
+- [ ] Cuando cierren los QS: **Notificar a Claude para próximo paso**
 
----
-
-## 🎯 Objetivos Mensuales
-
-### Enero 2025
-- [ ] Trading: 10 trades, 50%+ win rate
-- [ ] Content: 30 videos publicados, 1000 nuevos seguidores
-- [ ] Services: Propuesta de AI Agency lista
-- [ ] E-commerce: TikTokShop activado con 50+ productos
-
-### Febrero 2025
-- [ ] Trading: 15 trades, documentar journal
-- [ ] Content: 30 videos, colaboración con otro creator
-- [ ] Services: Landing page WebPage B2B
-- [ ] E-commerce: Primer venta en múltiples plataformas
-
-### Marzo 2025
-- [ ] Trading: Sistema rentable establecido
-- [ ] Content: 50K seguidores en una plataforma
-- [ ] Services: Primer cliente potencial
-- [ ] E-commerce: $1000+ en ingresos
+### TikTok Shop Affiliate Japonés
+- [ ] Explorar TikTok Shop Japón, seleccionar 5 productos
+- [ ] Crear primer script en Japonés (ChatGPT)
+- [ ] Generar voiceover (Google TTS o ElevenLabs)
+- [ ] Descargar/obtener imágenes del producto
+- [ ] Editar video en CapCut
+- [ ] Publicar primer video
 
 ---
 
-## 📈 Tracking de Progreso
+## 🟡 MEDIUM PRIORITY - ESTE MES
 
-### Plantilla Semanal (copiar cada semana)
+### Hana (Personal)
+- [ ] Signup for Gymnastics Class
+- [ ] Signup for Singing class
 
-```
-## Semana de [Fecha]
+### Electronica (Personal)
+- [ ] Arreglar Anpanman Buttons (revisar audio, identificar problema, reparar)
 
-### Tareas Completadas
-- [x]
-- [x]
+### Trading Webull (Después del 20 FEB)
+- [ ] Setup Trading Journal (Google Sheets) - PENDIENTE
+- [ ] Después del 20 FEB: Decidir si comprar 100 QS @ $11.06
+- [ ] Si compras QS: Vender calls mensuales (MAR-ABR-MAY)
+- [ ] Monitorear SOFI semanalmente (IV estable para MAY entry)
+- [ ] Investigar alternativas si IV baja en MARA (<100%)
 
-### Tareas Pendientes
-- [ ]
-
-### Métricas
-- Trading: __ trades, __ win rate
-- Content: __ videos, __ nuevos followers
-- Revenue: $__
-
-### Notas
--
-```
-
----
-
-## 💡 Tips de Productividad
-
-1. **Timeboxing:** Asignar tiempo específico a cada tarea
-2. **Batching:** Agrupar tareas similares
-3. **Focus:** Una tarea a la vez, evitar multitasking
-4. **Tracking:** Actualizar este archivo semanalmente
-5. **Review:** Reflexionar sobre qué funcionó y qué no
-6. **Automación:** Usar IA/herramientas para optimizar
+### TikTok Shop Affiliate Japonés
+- [ ] Crear 10+ videos adicionales
+- [ ] Publicar 2-3 videos/día
+- [ ] Monitorear engagement y CTR
+- [ ] Iterar productos según performance
 
 ---
 
-## 🔄 Sistema de Actualización
+## 🟢 LOW PRIORITY - CUANDO TENGAS TIEMPO
 
-- **Diario:** Marcar tareas completadas
-- **Semanal:** Revisar progreso y ajustar prioridades
-- **Mensual:** Analizar métricas y planificar siguiente mes
-- **Trimestral:** Revisión grande, replanificar objetivos
+### Proyectos en Pausa (Reactivar después de Mes 1)
+- ⏸️ Haz Dinero con AI (YouTube)
+- ⏸️ Original Character Series
+- ⏸️ Momoko
+- ⏸️ Impresion 3D
+- ⏸️ Viajes
+- ⏸️ Robotica
+- ⏸️ Todos los demás
+
+---
+
+## 📊 Current Status
+
+| Proyecto | Status | Progreso |
+|----------|--------|----------|
+| **Trading Webull** | 🟡 Activo | 2 contratos QS activos |
+| **TikTok Affiliate** | 🔵 Planning | 663/1,000 followers |
+| **Tramites** | 🔴 ALTA | 4 tareas pendientes |
+| **Hana** | 🟡 MEDIA | 2 clases a signup |
+| **Electronica** | 🟡 MEDIA | Anpanman buttons |
+
+**Capital Total:** $2,975.63 | **En Riesgo:** $235.60 prima (2 QS Puts) | **Ganancia Objetivo:** $82.46 | **Buying Power:** $1,088.63
+
+---
+
+**🔗 Ver detalles:** [[01_Proyectos/Prioridades]] | [[01_Proyectos/Dashboard]] | [[03_Personal/Dashboard]]

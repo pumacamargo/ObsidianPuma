@@ -15,15 +15,22 @@
 ¿Cuál de los 24 proyectos tiene mayor potencial de generar dinero lo antes posible?
 
 ### Respuesta
-**Enfocarse en 2-3 proyectos máximo en los primeros 6 meses:**
-1. **Options Webull - Wheel Strategy** (80% esfuerzo)
-2. **Haz Dinero con AI** (20% esfuerzo) + TiktokShop Affiliate paralelo
-3. **Pausar todo lo demás hasta mes 6**
+**Enfocarse en 2 proyectos principales - MÁXIMO ENFOQUE:**
+1. **Options Webull - Wheel Strategy** (60% esfuerzo - activo, generador cash)
+2. **TiktokShop Affiliate AI - Japonés** (40% esfuerzo - quick cash + scaling)
 
-### Meta 6 Meses
-- **Ingresos combinados:** $800-1,000/mes
-- **Inversión:** $0 (solo tiempo)
-- **Tiempo semanal:** 15-20 hrs (sostenible)
+### Meta Mes 1
+- **Ingresos combinados:** $50-100/mes
+- **Inversión:** $0
+- **Tiempo semanal:** 15-20 hrs
+
+### Meta Mes 3
+- **Ingresos combinados:** $300-500/mes
+- **Tiempo semanal:** 15-20 hrs
+
+### Proyectos Pausados (Reactivar después de mes 1)
+- ⏸️ Haz Dinero con AI - YouTube (documentación)
+- ⏸️ Original Character Series (kids show)
 
 ---
 
@@ -39,16 +46,23 @@
 - ✅ **Skill match:** Alto - Estás aprendiendo, tienes mentor
 - ✅ **Potencial:** $150-500/mes (Fase 2-3)
 
-**Estado Actual:**
-- P&L: -$100 (normal en fase aprendizaje)
-- Trades/mes: 1-2 (bajo volumen mientras aprendes)
-- Tickers: QS (good), F (mejorar IV)
+**Estado Actual (03 JAN 2026):**
+- Capital: $2,975.63
+- Buying Power: $1,088.63
+- Posiciones: 2 QS Puts con órdenes BTC automáticas
+- Expiran: 20 FEB 2026
+- Ganancia Objetivo: $82.46 (35% rule)
+- P&L actual: -$103 (normal en fase aprendizaje)
+- Estrategia: WAIT & SEE - monitorea diariamente, deja que BTC funcione
 
-**Próximas Acciones (Semana 1-2):**
-1. Reemplazar F por PLTR o SOFI (mejor IV)
-2. Aumentar frecuencia: 4-6 trades/mes
-3. Setup Trading Journal simple (Google Sheets)
-4. Usar Claude para validar entrada/salida
+**Próximas Acciones (ENERO-FEBRERO):**
+1. ✅ Órdenes BTC ya configuradas para 2 QS Puts (20 FEB 2026)
+2. Monitorear diariamente - dejar que las órdenes automáticas funcionen
+3. Cuando se cierren/asignen (20 FEB):
+   - Si ganancias: $82.46 + $1,324 buying power disponible
+   - Si asignados: 100-200 QS shares + vender calls (Phase 2)
+4. Decidir en FEB si comprar 100 QS o esperar mercado
+5. Setup Trading Journal después (FEBRERO o MARZO)
 
 **Timeline a Profitabilidad:**
 - Mes 1-2: -$50 a +$50/mes (learning curve OK)
@@ -130,7 +144,36 @@
 
 ---
 
-### 4. ⏸️ AI Agency (HIGHEST POTENTIAL, SLOWER START)
+### 4. 🎬 Original Character Series (HIGH POTENTIAL + LONG-TERM VALUE)
+
+**Por qué es #4 (prioridad alta ahora):**
+- ✅ **Time to money:** 2-3 meses (primeros episodios + merch)
+- ✅ **IP 100% tuya:** Potencial licensing, colaboraciones, expansión
+- ✅ **Multi-revenue:** YouTube ads + Merchandise + Sponsors
+- ✅ **Potencial crecimiento:** $1,000-4,000+/mes (mes 6+)
+- ✅ **Diferenciador:** Música original + Personajes adorables
+- ⚠️ **Requiere:** Habilidades art o inversión en artista ($500-1,500)
+
+**Estrategia:**
+- Mes 1-2: Diseño + producción episodio piloto
+- Mes 3: Lanza primeros 3 episodios + Tier 1 merch (Etsy)
+- Mes 4-5: 1-2 episodios/semana, agregar Tier 2 merch
+- Mes 6+: YouTube monetization + merch ramping = $1,000-4,000/mes
+
+**Meta Año 1:** $10K-30K (conservative estimate)
+
+**Cuándo Empezar:**
+- ✅ **AHORA** (mes 1-2 diseño, mes 3+ producción)
+- ✅ Paralelo a Webull + Haz Dinero con AI
+- ✅ 20% del tiempo total (5-6 hrs/semana)
+
+**Documentación Relacionada:**
+- [[Categorias/Content Creation/03 Original Character]]
+- [[Categorias/Content Creation/03 Original Character - EXPANDED]]
+
+---
+
+### 5. ⏸️ AI Agency (HIGHEST POTENTIAL, SLOWER START)
 
 **Por qué es #4 (no #1):**
 - ⚠️ **Time to money:** 2-4 MESES (primeros clientes)

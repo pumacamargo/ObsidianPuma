@@ -2,19 +2,144 @@
 
 **Estado:** ✅ Activo (Operando posiciones reales)
 **Prioridad:** 🔴 MÁXIMA
-**Progreso:** 70% (Prototipo terminado, trading activo)
+**Progreso:** 75% (2 contratos activos, órdenes de cierre configuradas)
+**Última actualización:** 03 Jan 2026 - Estrategia evolucionada POST-FEB 20
 
 ---
 
 ## 📋 Resumen Ejecutivo
 
-Implementación y operación activa de la estrategia Wheel en Webull con asistencia de IA y automatización. El prototipo está terminado y ya estoy ejecutando trades reales con capital de $3,000.
+Implementación y operación activa de la estrategia Wheel en Webull con asistencia de IA. 2 contratos QS activos con órdenes de cierre automáticas configuradas. Capital actual: $2,975.63. **ESTRATEGIA EVOLUCIONA POST-FEB 20:** Después de cierre de QS puts, transicionaremos a sell calls (fase 2 del Wheel) aprovechando el soporte técnico en $11.06 para acumular shares y generar ingresos recurrentes.
 
 **Roles clave:**
-- Claude AI: Asesoramiento para decisiones de entrada/salida
-- N8N: Automatización de flujos
-- Telegram Bot: Alertas diarias y monitoreo
-- Webull: Ejecución de trades
+- Claude AI: Asesoramiento para decisiones de entrada/salida ✅ En uso
+- Webull: Ejecución de trades ✅ En uso
+- Telegram Bot: Pendiente (agregar)
+- N8N: Pendiente (agregar)
+
+**Reglas de Trading Actuales:**
+- ✅ 35% Rule (no 50% - ajustado para QS en downtrend)
+- ✅ Órdenes BTC (Buy to Close) con limit price
+- ✅ Sin margen (solo cash-secured)
+
+---
+
+## 📌 PLAN DE ACCIÓN INMEDIATO (JAN-MAY 2026)
+
+**Tu estrategia para los próximos 5 meses - TL;DR:**
+
+| Período | Acción | Capital | Objetivo |
+|---------|--------|---------|----------|
+| **AHORA (JAN-FEB 20)** | Monitorea 2 QS Puts + cierre | $235 prima en riesgo | Ganar $82.46 |
+| **FEB 20** | Cierra ambos QS, tendrás $1,324 | $1,324 disponible | Preparar fase 2 |
+| **MAR (21-31)** | Compra 100 QS @ $11.06 | $1,106 deployed | Dominar Wheel fase 2 |
+| **ABR** | Vende QS Calls mensuales | $1,106 atrapado | Ganar $150-250/mes |
+| **MAY-JUN** | Cuando tengas $3,300+, agrega SOFI Put | +$2,500 nuevo | ✅ Diversificación real |
+
+**¿Por qué NO diversificar en MARZO?**
+- Tendrás solo $1,324 después de cerrar QS puts
+- Mejor opción: Compra 100 QS shares ($1,106)
+- Diversificación requiere $2,500+ = espera MAYO
+
+**Stock para agregar en MAYO:** SOFI $27.46 (IV 68%, premios $80-150)
+
+**Monitorear:** SOFI semanalmente, MARA si IV baja a ~100%
+
+---
+
+## 🎯 ESTRATEGIA INMEDIATA: "WAIT & SEE" (JAN-FEB 2026)
+
+**Decisión clara: NO hagas nada hasta el 20 FEB. Solo monitorea.**
+
+### ¿Qué pasa ahora? (Enero)
+
+**Tienes:**
+- 2 QS Puts activos con órdenes BTC automáticas
+- $235.60 prima en riesgo
+- $1,088.63 buying power
+
+**Tu trabajo:**
+```
+DIARIAMENTE:
+✅ Revisar si las órdenes BTC se ejecutaron
+✅ Monitorear Webull (5-10 min)
+✅ Ver notificaciones
+
+NO HAGAS:
+❌ Abrir nuevas posiciones
+❌ Cerrar manualmente (dejar que BTC lo haga)
+❌ Tomar decisiones emocionales
+```
+
+---
+
+### Escenario 1: BTC se ejecutan ANTES del 20 FEB ✅
+
+**Si ambas órdenes se cierran en 35% ganancia:**
+
+```
+Ganancia: $82.46
+Capital total: $2,975.63 + $82.46 = $3,058.09
+Buying Power: $1,088.63 + $235.60 = $1,324.23
+```
+
+**Tu decisión entonces:**
+1. **Espera a que expire el 20 FEB** (por si una no cierra)
+2. **El 21 FEB:** Tienes $1,324 disponibles
+3. **Luego:** Decidimos si compras 100 QS shares o esperamos
+
+---
+
+### Escenario 2: NO se cierran antes, expiran el 20 FEB 🎲
+
+**Hay 3 posibilidades:**
+
+**A) Se cierran en profit al vencer (mejor caso)**
+```
+Ganancia: $82.46
+Capital: $3,058.09
+Buying Power: $1,324.23
+→ Siguiente paso: Comprar 100 QS o esperar
+```
+
+**B) Te asignan las acciones (neutral, plan B del Wheel)**
+```
+Te asignan 200 QS @ $10 y $11 strikes
+Costo total: ~$2,100
+Ganancia de puts: $82.46
+Tienes: 200 QS + $1,000 cash
+→ Siguiente paso: Vender calls sobre esas 200 shares (Phase 2)
+```
+
+**C) Situación mixta (1 se cierra, 1 se asigna)**
+```
+Cierra 1: ganas $82
+Asignan 1: tienes 100 QS @ $10 o $11
+→ Siguiente paso: vender calls + evaluar
+```
+
+---
+
+### ¿QUÉ PASA DESPUÉS? (Decidimos en FEB)
+
+**Cuando cierren/asignen los QS puts, entonces DECIDIMOS:**
+
+✅ **Opción A:** Comprar 100 QS @ $11.06 y vender calls
+✅ **Opción B:** Si te asignaron, simplemente vender calls sobre esas 200
+✅ **Opción C:** Esperar si el mercado se ve raro
+✅ **Opción D:** Buscar otro stock si QS ya no se ve bien
+
+**Lo importante:** Ahora mismo, NO tomes decisiones. Solo monitorea y deja que las órdenes automáticas hagan su trabajo.
+
+---
+
+## 📋 Tareas para HOY (AHORA - ENERO)
+
+- [x] Órdenes BTC configuradas (ya hecho)
+- [ ] Revisar diariamente que sigan activas
+- [ ] Monitorear QS precio vs $11.06 soporte
+- [ ] NO abrir nuevas posiciones
+- [ ] Cuando se asignen/cierren: **Notificar a Claude para siguiente paso**
 
 ---
 
@@ -33,15 +158,522 @@ Implementación y operación activa de la estrategia Wheel en Webull con asisten
 
 ---
 
-## 💰 Reglas de Capital
+## 💰 Reglas de Capital (ACTUALIZADO 03 JAN 2026)
 
-- **Capital Total:** $3,000
-- **Máx Desplegado:** 75% = $2,250
-- **Mín Cash Reserve:** $500 (25%)
+- **Capital Total:** $2,975.63
+- **Máx Desplegado:** 75% = $2,231.72
+- **Mín Cash Reserve:** 25% = $743.91
+- **Buying Power Actual:** $1,088.63 (después de 2 puts activos)
 
-### Asignación por Ticker
-- **QS (Quantum Sphere):** ~$1,150 (38% del capital)
-- **F (Ford):** ~$1,330 (44% del capital)
+### Posiciones Actuales (03 JAN 2026)
+- **QS (Quantum Sphere):** 2 Puts activos
+  - QS $10 Put: BTC en $0.65 (ganancia $30.73)
+  - QS $11 Put: BTC en $0.98 (ganancia $51.73)
+  - Prima Total Recibida: $235.60
+  - Objetivo Ganancia: $82.46 (35% rule)
+  - Expiran: **20 FEB 2026**
+  - Precio QS actual: $10.46 (support zone $11.06)
+
+---
+
+## 🚀 EVOLUCIÓN DE ESTRATEGIA POST-FEB 20 (NUEVO - 03 JAN 2026)
+
+### Current Situation (Ahora - Enero 2026)
+- **2 QS Puts activos** que expiran el 20 FEB
+- **Expectativa:** Ambas se cierren en 35% ganancia = $82.46 total
+- **Buying Power después del cierre:** ~$1,088.63 + $235.60 (prima recuperada) = **~$1,324 disponible**
+
+### Estrategia Phase 2 - POST FEB 20: Sell Calls (Wheel Other Side)
+
+**¿Por qué cambiar de sell puts a sell calls después de Feb 20?**
+
+1. **QS está en soporte técnico ($11.06)** - No baja más, setup perfecto para buy + sell calls
+2. **Generar ingresos recurrentes** - Sell calls mensuales vs esperar puts expiración
+3. **Maximizar el Buying Power** - $1,324 me permite comprar 100-200 shares
+4. **Risk/Reward mejorado** - Own shares en precio bajo, vender calls premium monthly
+
+### Plan Específico (Después 20 FEB 2026)
+
+**Opción A: Acumular 100 Shares QS**
+```
+Precio de compra target: $11.06 (soporte, donde está ahorita)
+Cantidad: 100 shares
+Costo: ~$1,106
+Buying Power después: ~$218 (para comisiones/buffer)
+```
+
+**Luego: Vender Calls Mensualmente**
+```
+Strike: $13-14 (20-25% arriba del cost basis)
+DTE: 30-45 días
+Prima esperada: $150-300/mes (IV alta en QS)
+Resultado: Ingresos recurrentes OR shares se venden
+```
+
+**Opción B: Acumular 200 Shares QS (Si BTC se ejecutan antes)**
+```
+Si ambas posiciones se cierran con ganancia + premium recuperado:
+Buying Power total: ~$1,324
+Comprar 200 shares @ $11.06 = $2,212 (requiere ~2x el buying power)
+→ NO viable con cash actual, consideralo en Feb/Mar si agregas capital
+```
+
+### Razón de este Cambio
+
+**Antes (Sell Puts):** Esperaba expiración (30 días), ganancia pequeña ($82)
+**Después (Sell Calls):** Genero ingresos MONTHLY en shares que tengo, potencial $1,500-3,600/año
+
+Ejemplo con 100 QS shares @ $1,106:
+- Vendo calls 30 DTE: $150-250/mes
+- Si no me asignan: Próximo mes vuelvo a vender calls = $150-250 más
+- Si me asignan @ $13+: Ganancia de capital $294-394 + primas recibidas = $444-644 ciclo completo
+
+### Timeline Exacto
+
+| Fecha | Acción | Capital | Status |
+|-------|--------|---------|--------|
+| **03 JAN** | 2 QS Puts activos | $235.60 prima en riesgo | ✅ Actual |
+| **20 FEB** | Expiración esperada, BTC executados | $1,324 disponible | ⏳ Próximo |
+| **21 FEB** | Comprar 100 QS @ $11.06 | $1,106 deployed | 📅 Planned |
+| **28 FEB** | Vender calls 21 MAR | $150-250 prima | 📅 Planned |
+| **21 MAR** | Expiración calls, O repetir O assigned | Variable | 📅 Planned |
+
+### TERCERA POSICIÓN (Mientras esperas Feb 20)
+
+**UVXY $40 30 JAN Put** (RECOMENDADA SI hay buying power)
+- **Prima:** $6.05 = $605 costo
+- **IV:** 88.56% (ALTA = premios atractivos)
+- **Buying Power después:** $1,088.63 - $605 = **$483.63 remaining**
+- **Status:** ⏳ OPCIONAL, depende si quieres 3 posiciones
+
+**Decisión:**
+- ✅ **SÍ abrir** si: Quieres maximizar capital + no miedo de asignación UVXY
+- ❌ **NO abrir** si: Prefieres conservador, espera a Feb 20 para Wheel completo
+
+---
+
+## 📋 ANTES DE ABRIR UN NUEVO CONTRATO - Checklist de Análisis (IMPORTANTE)
+
+**Antes de abrir CUALQUIER contrato nuevo, DEBES hacer este análisis. No saltarte esto.**
+
+### Paso 1: Análisis Técnico del Ticker
+
+**Preguntate:**
+1. ¿En qué dirección va el precio? (arriba, abajo, sideways)
+2. ¿Hay soporte/resistencia importante cerca?
+3. ¿El IV es alto (>60%) o bajo (<40%)?
+4. ¿Hay earnings próximas? (evitar esa semana)
+
+**Herramientas:**
+- Gráfico diario/semanal en Webull
+- Marcar soportes/resistencias
+- Revisar noticias últimas 48 horas
+
+### Paso 2: Decisión CALLS vs PUTS - Framework
+
+Esta es la parte CRÍTICA. NO es "vendo un put porque sí". Depende del setup actual.
+
+#### **VENDER PUTS si:**
+✅ El precio está en **SOPORTE** o bajando pero tiene suelo visible
+✅ Esperas que **suba o se estabilice** en las próximas 30-45 días
+✅ **NO hay earnings** esa semana
+✅ El IV es **alto (>70%)** = mejores premios en puts
+✅ Estarías OK si te asignan las acciones (plan B)
+
+**Ejemplo QS actual:**
+- Precio: $10.46, soporte técnico en $11.06
+- Predicción: Sube o se estabiliza (bounce desde soporte)
+- Acción: ✅ VENDER PUTS (ganancia si sube/se estabiliza)
+
+#### **VENDER CALLS si:**
+✅ Ya **TIENES las acciones** (covered calls = Fase 2 Wheel)
+✅ El precio está cerca de **RESISTENCIA** o máximos recientes
+✅ Esperas que **baje o se estabilice** en las próximas 30-45 días
+✅ Estarías OK si te asignan (vender acciones con ganancia)
+✅ IV alto = mejores premios
+
+**Ejemplo QS post-Feb 20 (después de comprar 100 shares):**
+- Precio de compra: $11.06
+- Resistencia siguiente: $13-14
+- Predicción: Se queda entre $11-13 o sube a $13
+- Acción: ✅ VENDER CALLS @ $13 (ganancia si sube hasta $13 o se estabiliza)
+
+#### **NO entrar en ningún lado si:**
+❌ NO entiendes bien la dirección futura del ticker
+❌ Hay **earnings esa semana** (volatilidad impredecible)
+❌ IV es **MUY bajo (<40%)** = premios insignificantes, no vale la pena
+❌ La prima es **muy chiquita** (<$50 para 30 DTE)
+❌ El bid-ask spread es **muy grande** (difícil ejecutar/cerrar)
+
+### Paso 3: Validación de la Prima
+
+**La prima debe ser ATRACTIVA:**
+
+| DTE | Prima Mínima Aceptable (30-45 DTE) | Nota |
+|-----|-----------------------------------|------|
+| **45+ DTE** | $80-150 | Mucho tiempo = mejor prima |
+| **30-44 DTE** | $50-100 | Estándar, OK |
+| **15-29 DTE** | $40-70 | Menos tiempo, prima menor |
+| **<15 DTE** | Evitar | Poco tiempo, riesgo alto |
+
+**Cálculo rápido:**
+- Prima recibida × 35% (profit target) = Ganancia objetivo
+- Si prima $235.60 × 35% = $82.46 ✅ Vale la pena
+- Si prima $30 × 35% = $10.50 ❌ NO vale la pena (muy chico)
+
+### Paso 4: Revisar Margen y Buying Power
+
+**Antes de click en "VENDER":**
+1. ¿Tengo suficiente buying power? (el máximo que necesitarías si te asignan)
+2. ¿Mi capital no va a exceder 75% deployed?
+3. ¿Me queda cash reserve decente?
+
+**Ejemplo:**
+```
+Capital total: $2,975.63
+Máximo que puedo desplegar: 75% = $2,231.72
+Ya desplegado en QS puts: $235.60 (prima reservada)
+Disponible para nueva posición: $2,231.72 - $235.60 = $1,996.12
+```
+
+Si vas a vender un put a $40 strike, el costo máximo es $4,000 (100 shares × $40)
+→ ❌ NO TIENES suficiente, necesitarías más capital
+
+### Paso 5: Decisión Final
+
+**Antes de hacer click, responde:**
+
+```
+[ ] ¿Entiendo la dirección futura del ticker? SÍ / NO
+[ ] ¿Voy a vender PUTS o CALLS? PUTS / CALLS / NINGUNO
+[ ] ¿Hay earnings próximas? NO (crítico)
+[ ] ¿La prima es atractiva (>$50 mínimo)? SÍ
+[ ] ¿Tengo buying power suficiente? SÍ
+[ ] ¿Mi capital va a estar <75% deployed? SÍ
+[ ] ¿IV es decente (>50%)? SÍ
+```
+
+Si respondiste SÍ a TODAS = Procede
+Si respondiste NO a cualquiera = ESPERA, analiza más
+
+### Ejemplo de Análisis Completo: UVXY $40 30 JAN Put
+
+**Paso 1: Análisis Técnico**
+- UVXY es volatility ETF (sube cuando mercado cae)
+- Actualmente: Mercado medio volátil
+- $40 strike: Está un poco por debajo del precio actual
+- Soporte: Sí, hay
+
+**Paso 2: Decisión CALLS vs PUTS**
+- UVXY ha bajado de $45 → $40 (downtrend)
+- Predicción: Sigue bajando o se estabiliza en $38-40
+- ✅ VENDER PUTS es correcto (si baja, gano; si se estabiliza, gano)
+- IV en UVXY: 88.56% (MUY ALTO) = excelentes premios
+
+**Paso 3: Validación de Prima**
+- Prima ofrecida: $6.05
+- DTE: 30 días (30 JAN)
+- Ganancia 35%: $6.05 × 0.35 = $2.12 → BTC a $4.00
+- ✅ Prima es atractiva (IV alta justifica esto)
+
+**Paso 4: Margen**
+- Máximo riesgo: 100 × $40 = $4,000
+- Buying power actual: $1,088.63
+- ❌ NO tienes suficiente
+
+**Paso 5: Decisión**
+```
+✅ ¿Entiendo UVXY? Sí (volatility ETF)
+✅ ¿PUTS o CALLS? PUTS (predicción: baja/estable)
+✅ ¿Hay earnings? No
+✅ ¿Prima atractiva? Sí ($6.05, IV alta)
+❌ ¿Tengo buying power? NO ($1,088 < $4,000 requerido)
+```
+
+**CONCLUSIÓN: NO ABRIR UVXY $40 PUT** (sin capital adicional)
+Alternativa: Espera Feb 20, usa ese capital
+
+---
+
+## 🎯 DIVERSIFICACIÓN vs CONCENTRACIÓN - Análisis para tu Situación
+
+**Tu pregunta:** "Tengo 2 QS, ¿mejor diversificar en múltiples stocks o concentrar en QS?"
+
+Esto es una decisión CRUCIAL en options trading. Aquí va la respuesta honesta.
+
+### Contexto: Estás en FASE 1 (Aprendiendo)
+
+Recuerda: Estás en los primeros 3 meses. Tu objetivo NO es ganar dinero máximo, es APRENDER la mecánica del Wheel.
+
+### CONCENTRACIÓN (2+ contratos QS) vs DIVERSIFICACIÓN (1 QS + 1 PLTR + 1 SOFI...)
+
+#### **Opción A: CONCENTRACIÓN en QS (LO QUE RECOMIENDO)**
+
+| Aspecto | Ventaja |
+|---------|---------|
+| **Control** | Entiendes MUY bien 1 stock, no dispersas atención |
+| **Aprendizaje** | Ves ciclos del Wheel en QS, entiendes patrones |
+| **Disciplina** | Más fácil mantener la estrategia sin distracciones |
+| **Capital** | Maximizas capital en 1 setup que ya validaste |
+| **Riesgo** | QS es conocido, ya viste su volatilidad |
+
+**Desventaja:**
+- ❌ Si QS cae 50%, TODO tu capital cae con él
+- ❌ No tienes "hedge" (protección)
+
+#### **Opción B: DIVERSIFICACIÓN (3-4 stocks diferentes)**
+
+| Aspecto | Ventaja |
+|---------|---------|
+| **Riesgo disperso** | Si 1 stock cae, otros 3 te sostienen |
+| **Oportunidades** | Más posiciones = más primas potenciales |
+| **Profesional** | Así operan los traders serios |
+
+**Desventaja:**
+- ❌ Tienes que analizar 3-4 stocks diferentes
+- ❌ Con capital pequeño ($3K), no puedes desplegar bien en 4 stocks
+- ❌ Confusión = errores = pérdidas
+- ❌ Más complejo = menos disciplina en Fase 1
+
+---
+
+### MI RECOMENDACIÓN para ti (JAN-MAR 2026)
+
+**OPCIÓN A: CONCENTRACIÓN EN QS + 1 STOCK SECUNDARIO (máximo)**
+
+Aquí está el plan:
+
+**Enero-Febrero (Ahora):**
+- ✅ Mantén 2 contratos QS (ya abiertos)
+- ✅ Espera a que cierren el 20 FEB
+- ❌ NO abras una tercera posición ahora
+
+**Razón:** Con $1,088 buying power, NO tienes suficiente para:
+- 3 posiciones de puts decentes
+- O 1 UVXY + 1 QS (ambas requieren capital)
+
+**Marzo (Después del cierre QS Feb 20):**
+- ✅ Tienes $1,324 disponibles
+- ✅ Compra 100 QS @ $11.06
+- ✅ Abre OTRO stock: PLTR o SOFI (no UVXY)
+- ❌ Aún no diversifiques a 4 stocks
+
+**Estructura ideal para ti (POST FEB 20):**
+```
+Capital: $3,000
+Posición 1: 100 QS shares (cost $1,106)
+Posición 2: 1 PLTR Put o SOFI Put (cost $800-900)
+Total deployed: ~$2,000 (66%) ✅ Bajo el 75%
+Cash reserve: ~$1,000 (para emergencias/buffer)
+```
+
+---
+
+### PERO PRIMERO - ¿Deberías diversificar AHORA en JAN-FEB?
+
+**Respuesta honesta: NO**
+
+**Razón #1: Capital Insuficiente**
+- Tienes $1,088 buying power
+- Para 2 posiciones de puts = necesitas mínimo $1,500-2,000
+- ❌ NO TIENES SUFICIENTE
+
+**Razón #2: Ya tienes 2 QS (eso ES diversificación dentro del mismo stock)**
+- QS $10 Put
+- QS $11 Put
+- Estos tienen strikes diferentes = exposición ligeramente diferente
+
+**Razón #3: Fase de Aprendizaje**
+- Mejor conocer 1 stock a fondo que 4 stock a medias
+- Cuando cierren estos 2 en Feb, tendrás experiencia completa
+
+**Razón #4: Tu predicción de QS es sólida**
+- QS está en soporte $11.06
+- Esperas bounce/estabilización
+- SETUP VÁLIDO = concentra aquí
+
+---
+
+### Entonces... ¿Qué haces AHORA (Enero)?
+
+**Opción 1 (CONSERVADOR - RECOMENDADO):**
+```
+Haz NADA. Solo monitorea QS.
+Espera 20 FEB → cierra ambas posiciones
+Luego abre nuevas con mayor capital
+```
+
+**Opción 2 (AGRESIVO):**
+```
+Si REALMENTE quieres 3 posición (no recomiendo, pero aquí va):
+Busca 1 stock con IV ALTA pero prima pequeña
+Ejemplo: Vender PUT @ $15 strike (cost $1,500 máximo)
+Buying power después: $1,088 - $1,500 = ❌ NO TIENES
+```
+
+**Conclusión:** OPCIÓN 1 es la correcta.
+
+---
+
+### Plan de DIVERSIFICACIÓN REAL (Timeline)
+
+| Período | Estrategia | Capital | Posiciones |
+|---------|-----------|---------|-----------|
+| **JAN-FEB (Ahora)** | CONCENTRACIÓN | $3,000 | 2 QS Puts |
+| **FEB 20** | CIERRE | - | Ambas cierran, $1,324 disponible |
+| **FEB 21 - MAR 20** | DIVERSIFICACIÓN LEVE | $3,000 | 100 QS + 1 PLTR/SOFI Put |
+| **APR (Mes 4)** | DIVERSIFICACIÓN MODERADA | $4,000-5,000 | 100 QS + PLTR + SOFI + 1 nuevo |
+| **MAY+ (Mes 5+)** | DIVERSIFICACIÓN COMPLETA | $5,000+ | 4-5 stocks (profesional) |
+
+Este plan es GRADUAL = baja riesgo de errores
+
+---
+
+### ¿Y qué sobre UVXY? ¿Qué es eso?
+
+**Respuesta rápida:** UVXY es un ETF de volatilidad. **Para tu situación, NO es una buena opción.** Te explico:
+
+**¿QUÉ ES UVXY?**
+- No es una empresa (stock)
+- Es un ETF = cartera de volatilidad
+- Sube cuando el mercado CAE y hay pánico
+- Baja cuando el mercado está tranquilo
+
+**GRÁFICO MENTAL:**
+```
+Mercado tranquilo ($SPY sube) → UVXY baja
+Mercado en pánico (SPY cae) → UVXY sube
+```
+
+**¿POR QUÉ NO es bueno para ti AHORA?**
+
+| Aspecto | Problema |
+|---------|----------|
+| **Entendimiento** | ❌ Es más complejo que stocks normales |
+| **Predicción** | ❌ Necesitas predecir el MERCADO, no 1 stock |
+| **Volatilidad** | ❌ UVXY es EXTREMADAMENTE volátil (IV 80-150%) |
+| **Riesgo** | ❌ Si viendes puts y mercado cae, la prima sube MUCHO |
+| **Capital** | ❌ Requiere $4,000 (no tienes) |
+| **Para Phase 1** | ❌ Demasiado complejo en aprendizaje |
+
+**¿Cuándo SÍ usar UVXY?**
+- Después de 6 meses aprendiendo Wheel
+- Cuando tengas $5,000+ capital
+- Cuando entiendas correlación mercado/volatilidad
+- Como HEDGE (protección) de otras posiciones
+
+**MI RECOMENDACIÓN:** olvida UVXY por ahora. Enfócate en QS y después PLTR/SOFI.
+
+---
+
+### Stocks Recomendados para DIVERSIFICAR (POST FEB 20)
+
+**Después de cerrar QS el 20 FEB, ¿cuál stock agregar? (ACTUALIZADO 03 JAN 2026)**
+
+| Stock | Precio Actual | IV Actual | Por Qué |
+|-------|--------|-----------|---------|
+| **PLTR** (Palantir) | $167.86 | 42-86% | Premium, IV subió en FEB. Buen potencial |
+| **SOFI** (SoFi) | $27.46 | ~68% | Precio accesible, IV moderada, buen setup |
+| **MARA** (Marathon) | $9.91 | ~141% | Bitcoin mining, IV EXTREMADAMENTE ALTA |
+| **AMD** | $140-180 | 50-70% | Caro, IV baja para Wheel |
+
+---
+
+### ⚠️ ANÁLISIS CRÍTICO (Enero 2026)
+
+**PLTR ($167.86):**
+- ✅ IV subió a 86% en FEB (excelente para premios)
+- ✅ Precio alto pero accesible (buy put @ $155-160)
+- ⚠️ Muy caro para Phase 1 si quieres diversificar
+- **Setup:** Si tienes capital, PLTR es tu mejor opción
+
+**SOFI ($27.46):**
+- ✅ Precio cómodo, IV moderada (68%)
+- ✅ Capital requerido: ~$2,700 por put (strike $27)
+- ✅ Premios: $80-150 esperados (buen rango)
+- ✅ Fácil entender (fintech, lending)
+- **Setup:** ✅ MEJOR OPCIÓN PARA TI
+
+**MARA ($9.91):**
+- ✅ IV muy alta (141%) = premios ENORMES
+- ✅ Precio muy bajo = capital mínimo requerido
+- ⚠️ Bitcoin mining = volatilidad extrema
+- ⚠️ Dificil de predecir para Phase 1
+- **Setup:** Solo si quieres jugar alto riesgo/alto reward
+
+**AMD ($140-180):**
+- ✅ Empresa sólida
+- ❌ IV baja (50-70%) = premios pequeños
+- ❌ Muy caro = requiere $14,000+
+- **Setup:** ❌ NO RECOMENDADO para ti
+
+---
+
+### ✅ MI RECOMENDACIÓN FINAL (POST FEB 20)
+
+**Estructura ideal para MAR 2026:**
+
+```
+Capital disponible: $1,324 (después de cerrar QS)
+
+Opción 1 (CONSERVADOR): Solo QS Calls
+- Compra: 100 QS @ $11.06 = $1,106
+- Vende: Calls mensuales $13 strike
+- Capital restante: $218
+- Ventaja: Dominas 1 stock completamente
+- Desventaja: Cero diversificación
+
+Opción 2 (BALANCE - RECOMENDADO): SOFI + QS
+- Posición 1: 100 QS @ $11.06 = $1,106
+- Posición 2: 1 SOFI $25 Put = $2,500 max risk (no tienes)
+- ❌ PROBLEMA: Buying power insuficiente
+
+Opción 3 (ALTERNATIVA): SOFI Put solamente
+- Vende: SOFI $25 Put (30-45 DTE)
+- Prima esperada: $100-150
+- Capital requerido: $2,500
+- ❌ PROBLEMA: También insuficiente
+```
+
+**REALIDAD:** Con $1,324 después de Feb 20:
+- ✅ Puedes comprar 100 QS SHARES ($1,106)
+- ❌ NO puedes agregar otro stock sin más capital
+
+---
+
+### 🎯 PLAN REAL (Basado en Capital Actual)
+
+**Marzo 2026:**
+1. Compra 100 QS @ $11.06 = $1,106
+2. Vende QS Calls $13 strike (21 MAR) = $150-250 prima
+3. Capital restante: $218 (cash buffer)
+
+**Abril 2026 (Después de primer ciclo de calls):**
+- Si ganaste con QS calls: Tienes $200 ganancia + capital original
+- Ahora tienes: ~$1,400 total
+- Aún insuficiente para SOFI put
+
+**Mayo-Junio 2026 (3-4 ciclos completados):**
+- Si winrate es 60%+: Ganancia acumulada ~$300-400
+- Total capital: $3,300-3,400
+- ✅ AHORA sí puedes agregar SOFI Put @ $25 strike
+
+**CONCLUSIÓN:** La diversificación real viene en **MAYO, no MARZO**.
+Primero domina QS Wheel completo (puts + calls), luego agrega segundo stock.
+
+---
+
+### Stocks para Monitorear (Sin entrar aún)
+
+Mientras esperas a Mayo:
+
+| Stock | Acción | Razón |
+|-------|--------|-------|
+| **SOFI** | Monitorea semanalmente | IV estable, buena oportunidad en MAY |
+| **MARA** | Monitorea IV | Si IV baja a 100%, puede ser viable |
+| **XYZ** | Busca otros | IV >70%, precio accesible |
+
+**Herramienta:** Usa Webull screener mensual para encontrar setup mejor.
 
 ---
 
@@ -59,13 +691,14 @@ Implementación y operación activa de la estrategia Wheel en Webull con asisten
 
 ---
 
-## 🎯 Reglas de Salida
+## 🎯 Reglas de Salida (AJUSTADO 01 JAN 2026)
 
-### 50% Profit Rule ⭐ (MÁS IMPORTANTE)
-- **Cerrar posición en 50% de ganancia**
-- No ser codicioso esperando más
-- Aplicar SIEMPRE, sin excepciones
-- Ejemplo: Si gano $50, cierro. No espero $100.
+### 35% Profit Rule ⭐ (ACTUAL - Ajustado para QS en downtrend)
+- **Cerrar posición en 35% de ganancia** (antes era 50%)
+- **Razón del cambio:** QS está en caída fuerte (-17.31%), 50% target menos probable
+- **35% es equilibrio:** Más probable de ejecutarse + ganancia decent
+- Ejemplo: Prima $235.60 → Cierre objetivo $82.46 (35%)
+- **Aplicar SIEMPRE con órdenes BTC limit**
 
 ### Rolling Trades
 - **Hacer roll SI:**
@@ -94,17 +727,22 @@ Implementación y operación activa de la estrategia Wheel en Webull con asisten
 
 ---
 
-## 📊 Posiciones Activas (Actualizar diariamente)
+## 📊 Posiciones Activas (ACTUALIZADO 01 JAN 2026)
 
-| Ticker | Tipo | Strike | Entrada | DTE Entrada | DTE Actual | P&L | Status | Acción |
-|--------|------|--------|---------|------------|-----------|-----|--------|--------|
-| QS | Put | - | - | - | - | - | - | - |
-| F | Put | - | - | - | - | - | - | - |
+| Ticker | Strike | Entrada | Prima Recibida | DTE | Precio Actual | P&L | Target Cierre (35%) | BTC Order | Status |
+|--------|--------|---------|---------|-------|--------|-----|---------|---------|--------|
+| **QS #1** | $10 | 27/12/2025 | $87.80 | 26 | $10.46 | -$103 | $0.65 (30.73 profit) | ✅ Activa | Monitoreo |
+| **QS #2** | $11 | 01/01/2026 | $147.80 | 26 | $10.46 | PND | $0.98 (51.73 profit) | ✅ Activa | Monitoreo |
+
+**Resumen:**
+- **Prima Total Recibida:** $235.60
+- **Ganancia Objetivo (35%):** $82.46
+- **Órdenes BTC:** 2 activas con GTC (Good Till Cancelled)
+- **Próximo Evento:** 20 Feb 2026 (expiración)
 
 **Leyenda:**
-- **Tipo:** Put (venta de put) / Call (venta de call)
-- **Status:** Abierta / En Monitoreo / Ganancia >50% (cerrar) / Pérdida >15% (evaluar roll)
-- **Acción:** Próxima acción recomendada
+- **BTC Order:** Buy to Close - Orden automática de cierre
+- **Status:** Monitoreo = Esperando que puts bajen para ejecutarse
 
 ---
 
@@ -144,15 +782,17 @@ Implementación y operación activa de la estrategia Wheel en Webull con asisten
 
 ---
 
-## 📈 Métricas Principales
+## 📈 Métricas Principales (ACTUALIZADO 01 JAN 2026)
 
 | Métrica | Meta | Actual | Estado |
 |---------|------|--------|--------|
-| Ganancia Neta (mensual) | $200-400 | - | 🔄 Tracking |
-| Win Rate | 65%+ | - | 🔄 Tracking |
-| Ciclos Wheel Completados | 2-3/mes | - | 🔄 Tracking |
-| Capital Deployment | 75% | - | 🔄 Tracking |
-| Promedio Ganancia/Trade | - | - | 🔄 Tracking |
+| **Ganancia Neta (ciclo actual)** | $82.46 | $82.46 (objetivo) | 🟡 En progreso |
+| **Win Rate** | 65%+ | TBD | 🔄 Tracking (ciclo 1) |
+| **Ciclos Wheel Completados** | 2-3/mes | 0 | ⏳ Primer ciclo activo |
+| **Capital Deployment** | 75% | $235.60 prima (7.6%) | ✅ Conservador |
+| **Promedio Ganancia/Trade** | - | $82.46 (estimado) | 🔄 Tracking |
+| **Contatos Activos** | - | 2 | ✅ QS #1 + #2 |
+| **Órdenes BTC Activas** | - | 2 | ✅ Con límites automáticos |
 
 ---
 
@@ -204,9 +844,10 @@ Implementación y operación activa de la estrategia Wheel en Webull con asisten
 
 ## 📚 CURVA DE APRENDIZAJE (Fase Actual)
 
-**Estado actual:** APRENDIENDO (Mes 1-2)
-**P&L actual:** -$100 (normal en fase de aprendizaje)
-**Trades/mes:** 2-3 (bajo volumen mientras aprendo)
+**Estado actual:** APRENDIENDO (Mes 1 - QS #1 +2 horas, QS #2 entrada hoy)
+**P&L actual:** -$103 (QS #1 underwater, normal en fase early)
+**Trades/mes:** 2 activos (QS #1 + #2)
+**Cambios importantes:** Ajusté regla a 35% (antes 50%) por QS downtrend
 
 ### ¿Qué Esperar en los Primeros Meses?
 
@@ -429,6 +1070,25 @@ Implementación y operación activa de la estrategia Wheel en Webull con asisten
 
 ---
 
+## 🤖 ÓRDENES AUTOMÁTICAS DE CIERRE (BTC - Buy to Close)
+
+**Configuradas el 01 JAN 2026 con 35% Profit Rule**
+
+| Orden | Contrato | Acción | Limit Price | Ganancia Target | Status | TIF |
+|-------|----------|--------|-------------|---------|---------|--------|
+| **BTC #1** | QS $10 Put | BUY TO CLOSE | $0.65 | $30.73 | ✅ Activa | GTC |
+| **BTC #2** | QS $11 Put | BUY TO CLOSE | $0.98 | $51.73 | ✅ Activa | GTC |
+
+**Cómo funcionan:**
+- Se ejecutan automáticamente cuando el precio baje al limit
+- GTC = Good Till Cancelled (permanecen activas hasta 20 Feb 2026)
+- No requieren monitoreo manual
+- Cierran automáticamente ambas posiciones en 35% ganancia
+
+**Ganancia Total Esperada:** $82.46 (si ambas se ejecutan)
+
+---
+
 ## 🚀 PLAN DE ESCALADO DE CAPITAL
 
 ### Cuándo Agregar Más Capital
@@ -491,3 +1151,73 @@ Implementación y operación activa de la estrategia Wheel en Webull con asisten
 **Total/semana:** ~2-3 horas (muy manejable)
 
 **Nota:** Esta es una estrategia PART-TIME. No requiere estar pegado a la pantalla.
+
+---
+
+## 📝 LECCIONES APRENDIDAS & AJUSTES (01 JAN 2026)
+
+### Lecciones del Ciclo QS #1
+
+1. **QS es muy volátil** - Bajó 17.31% en días
+   - ✅ Decisión: Ajustar rule de 50% a 35%
+   - ✅ Razón: 50% target se hace menos probable en downtrend
+   - ✅ Resultado: Ganancia más realista y ejecutable
+
+2. **Cash-Secured Puts funcionan** - Recibí primas sin complicaciones
+   - ✅ Setup es simple: Vender put, esperar, cerrar
+   - ✅ No requiere margen aún
+   - ✅ Menos estrés psicológico
+
+3. **Órdenes BTC automáticas son esenciales**
+   - ✅ No necesito monitorear 24/7
+   - ✅ Disciplina automática (no emociones)
+   - ✅ Mejor que "esperar el timing perfecto"
+
+### Cambios Implementados (Ciclo Actual)
+
+| Cambio | Antes | Ahora | Razón |
+|--------|-------|-------|-------|
+| **Profit Rule** | 50% | 35% | QS downtrend |
+| **Tickers** | QS + F (plan) | Solo QS (×2) | F primas muy bajas |
+| **Órdenes** | Manual | BTC automáticas | Disciplina |
+| **Margen** | Considerado | No usar aún | Aún aprendiendo |
+
+### Próximos Pasos (Feb 2026 y después)
+
+**Semana 1 (Ahora - 7 JAN):**
+- [ ] Monitorear órdenes BTC
+- [ ] Documentar P&L diariamente
+- [ ] Esperar ejecución o roll si needed
+
+**Semana 2-4 (8-31 JAN):**
+- [ ] Si se ejecutan BTC = Documenta ganancia
+- [ ] Si no se ejecutan = Evaluar roll a Marzo
+- [ ] Investigar Margin Account (agregar como task)
+
+**Feb 2026:**
+- [ ] Expiración 20 FEB - Expectativa: Ambos closes en 35% profit
+- [ ] Si asignados: Vender calls (Phase 2 de Wheel)
+- [ ] Análisis completo del ciclo
+
+**Después Ciclo 1:**
+- [ ] Evaluar agregar SOFI (segundo stock)
+- [ ] Considerar margen si ciclo 1 es profitable
+- [ ] Escalar capital si ganas 3 meses consecutivos
+
+### Errores a Evitar (Checklist)
+
+- [ ] ❌ NO esperar >35% ganancia "por avaricia"
+- [ ] ❌ NO abrir nuevas posiciones sin revisar earnings
+- [ ] ❌ NO agregar margen hasta probar consistencia
+- [ ] ❌ NO cambiar strategy cada semana
+- [ ] ❌ NO tomar decisiones emocionales
+
+---
+
+## 🔗 Documentos Relacionados
+
+- [[00_Trading]] - Hub central de trading
+- [[../../../Trading Journal]] - Registro de todos los trades
+- [[../../../Checklist Diario Telegram Bot]] - Verificaciones diarias
+- [[../../../Dashboard]] - Estado general de proyectos
+- [[../../../Tareas Globales]] - Tareas globales de Puma
