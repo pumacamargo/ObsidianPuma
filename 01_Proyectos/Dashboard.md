@@ -46,18 +46,25 @@
 
 | Aspecto | Valor |
 |---------|-------|
-| **Estado** | 🔵 Planificación (663/1,000 followers) |
-| **Progreso** | 25% |
+| **Estado** | 🟡 Producción - Contenido Orgánico |
+| **Progreso** | 40% (1,000 followers alcanzados ✅) |
 | **Idioma** | 🇯🇵 Japonés |
 | **Modelo** | Affiliate (sin inventario) |
-| **Próximo Hito** | Crear 20+ videos en Japonés |
-| **Meta Mes 3** | 1,000+ followers, $200-300/mes |
+| **Estrategia Actual** | Generar 30+ videos + engagement orgánico ANTES de aplicar TikTok Shop |
+| **Próximo Hito** | 2,000-4,000 followers + 30+ videos (FEB para aplicación) |
+| **Meta Mes 3** | Aprobado en TikTok Shop, $200-300/mes en comisiones |
 
-**Tareas Inmediatas:**
-- [ ] Explorar TikTok Shop Japón, seleccionar 5 productos
-- [ ] Crear primer script en Japonés
-- [ ] Generar voiceover (Google TTS o ElevenLabs)
-- [ ] Editar + publicar primer video
+**Tareas ENERO (Enfoque: Contenido + Interacción Orgánica):**
+- [ ] Analizar qué contenido tiene mejor engagement (EN TU CUENTA)
+- [ ] Producir 20-30 videos de CALIDAD (1-2 por día)
+- [ ] Responder TODOS los comentarios en 1-2 horas (interacción orgánica)
+- [ ] Seguir cuentas similares (3-5 nuevas/día)
+- [ ] Alcanzar 2,000 followers
+
+**Tareas FEBRERO:**
+- [ ] Aplicar a TikTok Shop (FEB 10-15) con 30+ videos + engagement
+- [ ] Esperar aprobación (5-10 días típico)
+- [ ] Publicar videos con links de TikTok Shop después de aprobación
 
 🔗 [[Categorias/Content Creation/01 TiktokShop Affiliate AI]]
 

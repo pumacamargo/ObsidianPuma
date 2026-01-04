@@ -1,6 +1,6 @@
 # ✅ Tareas Globales - Checklist Simplificado
 
-**Última actualización:** 03 JAN 2026 - Estrategia QS actualizada: WAIT & SEE hasta FEB 20
+**Última actualización:** 03 JAN 2026 - Estrategia Trading: WAIT & SEE hasta FEB 20 | TikTok: Contenido orgánico + aplicación FEB
 
 ---
 
@@ -18,13 +18,12 @@
 - [ ] Setup Trading Journal (Google Sheets) - para después FEB 20
 - [ ] Cuando cierren los QS: **Notificar a Claude para próximo paso**
 
-### TikTok Shop Affiliate Japonés
-- [ ] Explorar TikTok Shop Japón, seleccionar 5 productos
-- [ ] Crear primer script en Japonés (ChatGPT)
-- [ ] Generar voiceover (Google TTS o ElevenLabs)
-- [ ] Descargar/obtener imágenes del producto
-- [ ] Editar video en CapCut
-- [ ] Publicar primer video
+### TikTok Shop Affiliate Japonés (✅ 1,000 followers alcanzados)
+- [ ] Analizar qué contenido tiene mejor engagement (EN TU CUENTA)
+- [ ] Producir 20-30 videos de CALIDAD (1-2 por día)
+- [ ] Responder TODOS los comentarios en 1-2 horas (interacción orgánica)
+- [ ] Seguir cuentas similares (3-5 nuevas/día)
+- [ ] Meta: Alcanzar 2,000 followers esta semana
 
 ---
 
@@ -44,11 +43,13 @@
 - [ ] Monitorear SOFI semanalmente (IV estable para MAY entry)
 - [ ] Investigar alternativas si IV baja en MARA (<100%)
 
-### TikTok Shop Affiliate Japonés
-- [ ] Crear 10+ videos adicionales
-- [ ] Publicar 2-3 videos/día
-- [ ] Monitorear engagement y CTR
-- [ ] Iterar productos según performance
+### TikTok Shop Affiliate Japonés (FEB: Aplicación + Monetización)
+- [ ] Aplicar a TikTok Shop (FEB 10-15) con 30+ videos + engagement sano
+- [ ] Esperar aprobación TikTok Shop (5-10 días típico)
+- [ ] Si APROBADO: Publicar videos con links de TikTok Shop
+- [ ] Monitorear CTR (Click-Through Rate) y conversion rate
+- [ ] Documentar comisiones en Google Sheets
+- [ ] Iterar productos/niches según performance
 
 ---
 
