@@ -18,12 +18,18 @@
 - [ ] Setup Trading Journal (Google Sheets) - para después FEB 20
 - [ ] Cuando cierren los QS: **Notificar a Claude para próximo paso**
 
-### TikTok Shop Affiliate Japonés (✅ 1,000 followers alcanzados)
-- [ ] Analizar qué contenido tiene mejor engagement (EN TU CUENTA)
-- [ ] Producir 20-30 videos de CALIDAD (1-2 por día)
-- [ ] Responder TODOS los comentarios en 1-2 horas (interacción orgánica)
-- [ ] Seguir cuentas similares (3-5 nuevas/día)
-- [ ] Meta: Alcanzar 2,000 followers esta semana
+### TikTok Shop Affiliate Japonés (✅ 1,000 followers alcanzados - SEMANA 1 ACTIVA)
+- [x] ✅ Identificar niche ganador: Mockups Publicitarios + Lifestyle Product Placement
+- [ ] **PRODUCIR 14 VIDEOS (2/día) SEMANA 1** según plan ejecutivo detallado
+  - Lun 5 JAN: Smartwatch + Botella inteligente
+  - Mar 6 JAN: Audífonos + Powerbank
+  - Mié 7 JAN: Organizador cables + Phone holder
+  - Jue 8 JAN: Running watch + Yoga mat
+  - Vie 9 JAN: Cable USB-C + Almohada cervical
+  - Sab 10 JAN: Ring light + Mochila viaje
+  - Dom 11 JAN: Thermometer + Desk organizer
+- [ ] Meta SEMANA 1: 14 videos + 2,000 followers + >2% engagement rate
+- [ ] Responder comentarios e interacción orgánica continua
 
 ---
 

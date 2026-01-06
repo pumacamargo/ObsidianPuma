@@ -54,12 +54,15 @@
 | **Próximo Hito** | 2,000-4,000 followers + 30+ videos (FEB para aplicación) |
 | **Meta Mes 3** | Aprobado en TikTok Shop, $200-300/mes en comisiones |
 
-**Tareas ENERO (Enfoque: Contenido + Interacción Orgánica):**
-- [ ] Analizar qué contenido tiene mejor engagement (EN TU CUENTA)
-- [ ] Producir 20-30 videos de CALIDAD (1-2 por día)
-- [ ] Responder TODOS los comentarios en 1-2 horas (interacción orgánica)
-- [ ] Seguir cuentas similares (3-5 nuevas/día)
-- [ ] Alcanzar 2,000 followers
+**Tareas ENERO - SEMANA 1 (Contenido + Interacción Orgánica):**
+**NICHE CONFIRMADO:** Mockups Publicitarios + Lifestyle Product Placement
+
+- [x] ✅ Identificar niche ganador (mockup publicitario - funciona sin mostrar cara)
+- [ ] **SEMANA 1 (5-11 JAN): Producir 14 videos específicos (2/día)**
+  - Plan detallado: [[Categorias/Content Creation/01 TiktokShop Affiliate AI]] - Sección "PLAN DETALLADO"
+  - Productos: Smartwatch, Botella inteligente, Audífonos, Powerbank, Organizador, Phone holder, Running watch, Yoga mat, Cable USB-C, Almohada, Ring light, Mochila, Thermometer, Desk organizer
+  - Meta: 14 videos, 2,000 followers, >2% engagement rate
+- [ ] Responder comentarios e interacción orgánica continua
 
 **Tareas FEBRERO:**
 - [ ] Aplicar a TikTok Shop (FEB 10-15) con 30+ videos + engagement

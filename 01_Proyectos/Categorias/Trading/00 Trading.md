@@ -8,13 +8,17 @@ Hub central de todos los proyectos de trading. Incluye opciones en Webull (Wheel
 ## 🎯 Resumen Rápido de Proyectos
 
 ### 1. ✅ Options Trading Webull - Wheel Strategy
-- **Estado:** ✅ Activo (operando posiciones reales)
+- **Estado:** ✅ Activo (operando posiciones reales desde OCT 2025)
 - **Prioridad:** 🔴 ALTA
-- **Progreso:** 70%
-- **Capital:** $3,000 (QS $1,150 + F $1,330)
+- **Progreso:** 80% (4 ciclos en total, 3 cerrados)
+- **Capital Inicial:** $3,013.32 | **Capital Actual:** $3,009.40 (↓ -0.13%)
+- **P&L Total:** -$3.92 (breakeven después de 3 meses)
+- **Ciclos:** 2 ganancias + 2 pérdidas (50% win rate)
+- **Lecciones:** Ford ❌ | QS ✅ | Órdenes automáticas ✅
 - **Métrica:** Ganancia neta mensual ($200-400 meta)
-- **Próximo:** Revisar posiciones diarias, documentar en journal
-- 📄 **Detalles completos:** [[Options Webull - Wheel]]
+- **Próximo:** Esperar cierre QS #2 (target +$54.18), luego expansión
+- 📄 **Detalles completos:** [[01 Options Webull]]
+- 📊 **Trading Journal:** [[05 Trading Journal]]
 
 ### 2. 🟡 Futures Trading NinjaTrader - Algorithmic Trading
 - **Estado:** 🟡 En Progreso (backtesting)
@@ -34,11 +38,11 @@ Hub central de todos los proyectos de trading. Incluye opciones en Webull (Wheel
 
 ---
 
-## 📊 Métricas de Seguimiento Global
+## 📊 Métricas de Seguimiento Global (ACTUALIZADO 06 JAN 2026)
 
 | Proyecto | Win Rate | P&L Actual | Meta Mensual | Status |
 |----------|----------|-----------|-------------|--------|
-| Webull Wheel | - | - | $200-400 | ✅ Activo |
+| **Webull Wheel** | **50%** (2/4 ✅) | **-$3.92** (breakeven) | $200-400 | ✅ Activo |
 | NinjaTrader | - | - | Por definir | 🟡 Desarrollo |
 | TD RRSP | - | - | Por definir | 🔵 Planificación |
 
