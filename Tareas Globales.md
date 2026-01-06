@@ -21,7 +21,7 @@
 ### TikTok Shop Affiliate Japonés (✅ 1,000 followers alcanzados - SEMANA 1 ACTIVA)
 - [x] ✅ Identificar niche ganador: Mockups Publicitarios + Lifestyle Product Placement
 - [ ] **PRODUCIR 14 VIDEOS (2/día) SEMANA 1** según plan ejecutivo detallado
-  - Lun 5 JAN: Smartwatch + Botella inteligente
+  - ~~Lun 5 JAN: Smartwatch + Botella inteligente~~
   - Mar 6 JAN: Audífonos + Powerbank
   - Mié 7 JAN: Organizador cables + Phone holder
   - Jue 8 JAN: Running watch + Yoga mat
@@ -34,6 +34,9 @@
 ---
 
 ## 🟡 MEDIUM PRIORITY - ESTE MES
+
+### Proyectos Regulares
+- [ ] Hacer otra prueba lenticular (diseño, producción, validar mercado)
 
 ### Hana (Personal)
 - [ ] Signup for Gymnastics Class
