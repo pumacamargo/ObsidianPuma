@@ -23,12 +23,18 @@ Puma/
 │   ├── Dashboard.md           ← Central entry point
 │   ├── Notas de Progreso.md   ← Weekly/monthly progress tracking
 │   ├── Ideas.md               ← Brainstorm & future ideas
-│   └── Categorias/            ← 5 main project categories
+│   ├── Categorias/            ← 5 main project categories
+│   └── Templates/             ← Standard templates (NEW!)
+│       ├── Proyecto_Template.md
+│       ├── DailyNote_Template.md
+│       └── README.md
 │
 ├── 02_Notebook/
 │   └── Learning.md            ← Educational progress
 │
+├── 03_Personal/               ← Personal tasks and tracking
 ├── Tareas Globales.md         ← Global task list by priority
+├── 2026-MM-DD.md              ← Daily notes (one per day)
 └── CLAUDE.md                  ← This file
 ```
 
@@ -269,14 +275,72 @@ When documenting monetization:
 
 ---
 
+## 📋 Templates para Proyectos y Daily Notes
+
+### Estructura de Templates (NEW - 09 JAN 2026)
+
+Se han creado **2 templates estándar** en la carpeta `Templates/` para mantener consistencia:
+
+#### 1. **Proyecto_Template.md** - Para nuevos proyectos
+**Ubicación:** `Templates/Proyecto_Template.md`
+
+**Secciones incluidas:**
+- Metadata (estado, prioridad, progreso)
+- Resumen ejecutivo
+- Objetivos SMART (tabla)
+- Estado actual (tabla de tareas)
+- Roadmap en fases (3 fases mínimo)
+- Monetización / Métricas de éxito
+- Riesgos & Mitigación
+- Tareas inmediatas (Esta semana, siguiente semana, etc)
+- Tracking & Métricas con historial
+- Links relacionados
+
+**Cómo usar:**
+1. Duplica el template
+2. Reemplaza variables `{{VARIABLE}}` con contenido específico
+3. Elimina secciones que no apliquen
+4. Guarda en `01_Proyectos/Categorias/{CATEGORIA}/[NUMERO] [NombreProyecto].md`
+
+#### 2. **DailyNote_Template.md** - Para daily notes diarias
+**Ubicación:** `Templates/DailyNote_Template.md`
+
+**Secciones incluidas:**
+- Hecho hoy (por proyecto)
+- Métricas del día (tabla comparativa vs. metas)
+- Pendientes y bloqueadores
+- Aprendizajes y ajustes
+- Próximos pasos
+- Links a proyectos activos
+- Resumen semanal (solo viernes)
+
+**Cómo usar:**
+1. Crea nuevo archivo: `YYYY-MM-DD.md` (ej: `2026-01-09.md`)
+2. Reemplaza variables según lo que hiciste
+3. Completa sección de Métricas con datos reales
+4. Omite secciones opcionales si no aplican
+5. Toma 10-15 minutos al final del día
+
+**Variables comunes:**
+- `{{DATE}}` = YYYY-MM-DD
+- `{{ESTADO}}` = 🔵 Planificación | 🟡 En Producción | 🟢 Completado | 🔴 On Hold
+- `{{PRIORIDAD}}` = 🔴 ALTA | 🟠 MEDIA | 🟢 BAJA
+
+#### 3. **README.md** - Guía de uso
+**Ubicación:** `Templates/README.md`
+Contiene instrucciones detalladas, tips y mejores prácticas.
+
+---
+
 ## 🔧 Common Workflows
 
 ### Adding a New Project
-1. Create file: `[Category]/[Number] [ProjectName].md`
-2. Use template from `01_Proyectos/README.md`
-3. Link from hub file: Add to `[[00 Category.md]]`
-4. Add to global task list: `Tareas Globales.md`
-5. Cross-link related projects in "🔗 Relacionado" section
+1. Create file: `01_Proyectos/Categorias/[Category]/[Number] [ProjectName].md`
+2. Use template from `Templates/Proyecto_Template.md` (copy and fill)
+3. Replace all `{{VARIABLES}}` with your content
+4. Link from hub file: Add to `[[00 Category.md]]`
+5. Add to global task list: `Tareas Globales.md`
+6. Cross-link related projects in "🔗 Relacionado" section
 
 ### Updating Progress
 1. Edit `Estado Actual` table with status change
@@ -285,11 +349,20 @@ When documenting monetization:
 4. Mark complete tasks with ✅ in objectives
 5. Add timestamp: "Última actualización: DD Mes YYYY"
 
+### Creating Daily Notes
+1. Create new file: `[root]/YYYY-MM-DD.md` (ej: `2026-01-09.md`)
+2. Use template from `Templates/DailyNote_Template.md`
+3. Fill sections: Hecho hoy, Métricas, Pendientes, etc.
+4. Link to active projects in "🔗 Proyectos Relacionados"
+5. Every Friday: Add weekly summary section
+6. Takes 10-15 minutes at end of day
+
 ### Tracking Income
 - All income goes in `Trading Journal` or relevant project file
 - Use `Tareas Globales.md` to aggregate across projects
 - Monthly review in `Notas de Progreso.md`
 - Projects show "Proyección Total" but real numbers from journal
+- Daily Notes: Include daily metrics (followers, sales, etc.) to track trends
 
 ---
 
@@ -376,8 +449,8 @@ These tools are referenced but not stored here:
 ---
 
 **System created by user + Claude Code collaboration**
-**Last revision:** 06 JAN 2026
-**Status:** Active - TRADING LIVE ✅ PRIMER CICLO COMPLETADO + TIKTOK PRODUCTION IN PROGRESS
+**Last revision:** 09 JAN 2026 (Added Templates)
+**Status:** Active - TRADING LIVE ✅ PRIMER CICLO COMPLETADO + TIKTOK PRODUCTION IN PROGRESS + TEMPLATES IMPLEMENTED ✅
 
 **Trading Status Snapshot (06 JAN 2026 - ACTUALIZADO):**
 - ✅ QS #1 CERRADO exitosamente (27 DIC → 06 JAN, +$67.23)
