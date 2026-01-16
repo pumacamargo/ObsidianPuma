@@ -3,13 +3,13 @@
 **Estado:** ✅ Activo (Operando posiciones reales)
 **Prioridad:** 🔴 MÁXIMA
 **Progreso:** 85% (1 contrato activo, 1 ciclo completado exitosamente)
-**Última actualización:** 06 Jan 2026 - Primer ciclo completado: QS #1 cerrado con +$67.23 ganancia
+**Última actualización:** 16 Jan 2026 - Esperando expiración 20 FEB. NO COMPRES 100 SHARES AÚN.
 
 ---
 
 ## 📋 Resumen Ejecutivo
 
-Implementación y operación activa de la estrategia Wheel en Webull con asistencia de IA. 1 contrato QS activo con orden de cierre automática configurada. Capital actual: $3,009.40 (↑ 27.65%). **ACTUALIZACIÓN 06 JAN:** Un contrato QS se cerró exitosamente por orden BTC automática. **ESTRATEGIA EVOLUCIONA POST-FEB 20:** Después de cierre del QS put restante, transicionaremos a sell calls (fase 2 del Wheel) aprovechando el soporte técnico en $11.06 para acumular shares y generar ingresos recurrentes.
+Implementación y operación activa de la estrategia Wheel en Webull con asistencia de IA. 1 contrato QS activo con orden de cierre automática configurada. Capital actual: $2,957.40. **ACTUALIZACIÓN 16 JAN:** Esperando expiración 20 FEB. QS está bajando ($10.15), put underwater -5.94%. **DECISIÓN CRÍTICA:** NO COMPRES 100 shares aún. Espera a que ocurra uno de 3 escenarios: (A) BTC ejecutado, (B) Asignación automática, o (C) Mezcla. LUEGO (21 FEB+) decidimos comprar shares o vender calls sobre asignadas.
 
 **Roles clave:**
 - Claude AI: Asesoramiento para decisiones de entrada/salida ✅ En uso
@@ -24,17 +24,19 @@ Implementación y operación activa de la estrategia Wheel en Webull con asisten
 
 ---
 
-## 📌 PLAN DE ACCIÓN INMEDIATO (JAN-MAY 2026)
+## 📌 PLAN DE ACCIÓN INMEDIATO (16 JAN - MAY 2026)
 
-**Tu estrategia para los próximos 5 meses - TL;DR:**
+**Tu estrategia para los próximos 4+ meses - TL;DR:**
 
 | Período | Acción | Capital | Objetivo |
 |---------|--------|---------|----------|
-| **AHORA (JAN-FEB 20)** | Monitorea 2 QS Puts + cierre | $235 prima en riesgo | Ganar $82.46 |
-| **FEB 20** | Cierra ambos QS, tendrás $1,324 | $1,324 disponible | Preparar fase 2 |
-| **MAR (21-31)** | Compra 100 QS @ $11.06 | $1,106 deployed | Dominar Wheel fase 2 |
-| **ABR** | Vende QS Calls mensuales | $1,106 atrapado | Ganar $150-250/mes |
-| **MAY-JUN** | Cuando tengas $3,300+, agrega SOFI Put | +$2,500 nuevo | ✅ Diversificación real |
+| **AHORA (16-20 JAN)** | Monitorea QS + orden BTC | $147.80 prima en riesgo | Esperar expiración 20 FEB |
+| **20 FEB 2026** | 3 escenarios posibles | TBD (depende resultado) | Documentar qué pasó |
+| **ESCENARIO A: BTC Ejecutado** | Ganas $51.73 + capital libre | $1,324 disponible | Evaluar compra 100 QS |
+| **ESCENARIO B: Asignación** | Tienes 100 shares @ $11 | $1,100 deployed | Vender calls 30-45 DTE |
+| **ESCENARIO C: Mezcla** | 100 shares + ganancia | $1,106 deployed | Vender calls post-rebote |
+| **MAR-ABR** | Vende Calls (cualquier escenario) | Variable | Ganar $150-250/mes |
+| **MAY-JUN** | Evaluar diversificación | +$2,500 nuevo | SOFI Put si capital permite |
 
 **¿Por qué NO diversificar en MARZO?**
 - Tendrás solo $1,324 después de cerrar QS puts
@@ -124,22 +126,109 @@ Asignan 1: tienes 100 QS @ $10 o $11
 
 **Cuando cierren/asignen los QS puts, entonces DECIDIMOS:**
 
-✅ **Opción A:** Comprar 100 QS @ $11.06 y vender calls
-✅ **Opción B:** Si te asignaron, simplemente vender calls sobre esas 200
+✅ **Opción A:** Comprar 100 QS @ nivel de soporte confirmado (NO @ $11.06) - ACTUALIZADO 06 JAN
+✅ **Opción B:** Si te asignaron, simplemente vender calls sobre esas acciones asignadas
 ✅ **Opción C:** Esperar si el mercado se ve raro
 ✅ **Opción D:** Buscar otro stock si QS ya no se ve bien
 
-**Lo importante:** Ahora mismo, NO tomes decisiones. Solo monitorea y deja que las órdenes automáticas hagan su trabajo.
+**CRÍTICO (06 JAN 2026):** QS está en DOWNTREND. Ver análisis abajo antes de comprar shares.
 
 ---
 
-## 📋 Tareas para HOY (AHORA - ENERO)
+## ⚠️ ANÁLISIS DE TIMING PARA COMPRA DE SHARES (ACTUALIZADO 16 JAN 2026)
+
+**SITUACIÓN ACTUAL (16 JAN 2026):**
+- Precio QS: $10.15 (bajando desde $17.25 en julio)
+- Soporte esperado ($11.06): **Ya roto**
+- Tu posición QS $11 Put: -5.94% underwater
+- **TIEMPO CRÍTICO:** Solo 4 días hasta expiración (20 FEB)
+- Orden BTC @ $0.98 aún pendiente
+
+**RECOMENDACIÓN: NO COMPRES LOS 100 SHARES AHORA**
+
+### Razones del NO (Contexto 16 JAN):
+
+1. **Muy poco tiempo para que rebote (solo 35 días hasta exp)**
+   - A $10.15 hoy, QS necesita subir para ser profitable
+   - 35 días es ajustado, pero posible
+   - Riesgo: Si no rebota, te asignan @ $11 pagando $1,100
+
+2. **Tu posición QS $11 Put está underwater (-5.94%)**
+   - In-the-money = PROBABLE asignación el 20 FEB
+   - Mejor dejar que expire naturalmente y ver qué pasa
+   - Si te asignan → ya tienes 100 shares sin comprar ahora
+
+3. **Escenarios Posibles el 20 FEB (en 4 días):**
+   - **A)** BTC se ejecuta @ $0.98 → Cierras con ganancia $51.73
+   - **B)** Precio sube y te asignan → Tienes 100 shares @ $11
+   - **C)** Mezcla → Una se cierra, una se asigna
+
+4. **La mejor estrategia es ESPERAR el 20 FEB:**
+   - LUEGO verás cuál fue el resultado
+   - LUEGO decidimos si comprar o si ya tienes asignadas
+   - LUEGO vendes calls con mejor información
+
+### Timeline Realista (16 JAN - 20 FEB):
+
+```
+AHORA - 20 FEB (4 días):
+├─ Monitorea QS diariamente (5-10 min)
+├─ Mantén orden BTC @ $0.98 activa (sin tocar)
+├─ NO compres 100 shares aún
+└─ NO abras nuevas posiciones
+
+20 FEB 2026 (EXPIRACIÓN):
+├─ Resultado A: BTC ejecutado → Ganas $51.73 + capital libre
+├─ Resultado B: Te asignan → Tienes 100 shares @ $11
+├─ Resultado C: Mezcla → Una se cierra, otra se asigna
+└─ Documenta en Trading Journal
+
+DESPUÉS 20 FEB (FEB 21+):
+├─ SI ganaste capital libre:
+│  ├─ Evalúa soporte en QS (¿Sigue bajando? ¿Rebota?)
+│  ├─ Compra 100 shares en mejor precio si es posible
+│  └─ Vende calls 30-45 DTE
+│
+├─ SI te asignaron acciones:
+│  ├─ Ya tienes 100-200 shares
+│  ├─ Espera rebote en QS (IV suba)
+│  └─ Vende calls @ $12-13 strike
+│
+└─ SI mezcla:
+   ├─ Tienes 100 shares + ganancia
+   ├─ Espera rebote
+   └─ Vende calls en esas acciones
+```
+
+### ¿Por Qué NO Comprar AHORA (16 JAN)?
+
+| Razón | Impacto |
+|-------|--------|
+| **Solo 35 días hasta exp** | Tiempo muy corto para rebote |
+| **QS underwater @ -5.94%** | Probable asignación automática |
+| **Ya podrías tener shares el 20** | Si te asignan, gastas capital inútilmente |
+| **No sabes resultado aún** | Espera 4 días, tienes más info |
+| **Calls premium será mejor POST-20 FEB** | IV más estable, mejor timing |
+
+**Conclusión:** Esperar 4 días es MEJOR decisión que comprar hoy.
+
+---
+
+## 📋 Tareas para HOY (AHORA - 16-20 JAN) - ACTUALIZADO 16 JAN
+
+**CRÍTICO: Solo 4 días hasta expiración (20 FEB)**
 
 - [x] Órdenes BTC configuradas (ya hecho)
-- [ ] Revisar diariamente que sigan activas
-- [ ] Monitorear QS precio vs $11.06 soporte
-- [ ] NO abrir nuevas posiciones
-- [ ] Cuando se asignen/cierren: **Notificar a Claude para siguiente paso**
+- [ ] Revisar DIARIAMENTE que orden BTC siga activa
+- [ ] **NO COMPRES 100 shares aún** (espera resultado 20 FEB)
+- [ ] **NO abras nuevas posiciones**
+- [ ] Monitorea QS precio (documentar si sube o baja)
+- [ ] **El 20 FEB - Documenta qué pasó:**
+  - [ ] ¿Se ejecutó BTC @ $0.98?
+  - [ ] ¿Te asignaron acciones?
+  - [ ] ¿Mezcla de ambas?
+- [ ] **Notificar a Claude el 20 FEB** con resultado exacto
+- [ ] **LUEGO (21 FEB+):** Deciden si comprar shares o vender calls sobre asignadas
 
 ---
 
