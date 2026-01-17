@@ -1,12 +1,6 @@
 ---
-
 kanban-plugin: board
-
 ---
-
-## Personales
-
-
 
 ## Proyectos
 
@@ -14,6 +8,16 @@ kanban-plugin: board
 - [ ] webull - esperar al cierre del contrato
 - [ ] tiktokShop - esperar a tataraVideo
 - [ ] lenticular - hacer una prueba mas
+
+
+## Learn
+
+- [ ] kotoba - agrega custom deck
+
+
+## Personales
+
+- [ ] craft - armar un bot para crafts
 
 
 ## Pendientes
@@ -24,11 +28,6 @@ kanban-plugin: board
 - [ ] Call Amex to Cancel
 - [ ] Hanita Gymnastics
 - [ ] Hanita Singing Class
-
-
-## Learn
-
-- [ ] Kotoba Questo
 
 
 

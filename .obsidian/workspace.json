@@ -199,49 +199,14 @@
       "obsidian-kanban:Create new board": false
     }
   },
-  "floating": {
-    "id": "2a9d52b56abe9e53",
-    "type": "floating",
-    "children": [
-      {
-        "id": "1cd89064f92c11ef",
-        "type": "window",
-        "children": [
-          {
-            "id": "ecf868788d2257c3",
-            "type": "tabs",
-            "children": [
-              {
-                "id": "59bf4ed38401aa0d",
-                "type": "leaf",
-                "state": {
-                  "type": "empty",
-                  "state": {},
-                  "icon": "lucide-file",
-                  "title": "New tab"
-                }
-              }
-            ]
-          }
-        ],
-        "direction": "vertical",
-        "x": -1291,
-        "y": 13,
-        "width": 1276,
-        "height": 1032,
-        "maximize": true,
-        "zoom": 0
-      }
-    ]
-  },
-  "active": "75371253f456dc84",
+  "active": "21c987f129e8da22",
   "lastOpenFiles": [
+    "Tareas Gobales Kaban.md",
     "doc/CLAUDE.md",
     "Templates/Proyecto_Template.md",
     "Templates/DailyNote_Template.md",
     "Tareas Globales.md",
     "bkp",
-    "Tareas Gobales Kaban.md",
     "2026-01-09.md",
     "2026-01-08.md",
     "01_Proyectos/Prioridades.md",
