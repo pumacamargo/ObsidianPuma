@@ -1,23 +1,31 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Proyectos
 
 - [ ] tataraVideo - empezar de nuevo
-- [ ] webull - esperar al cierre del contrato
-- [ ] tiktokShop - esperar a tataraVideo
+- [ ] webull - hacer el trading journal
 - [ ] lenticular - hacer una prueba mas
+- [ ] tiktokShop - esperar a tataraVideo
+- [ ] tiktokShop - hacer el primer comercial
+- [ ] webull - esperar al cierre del contrato
 
 
 ## Learn
 
-- [ ] kotoba - agrega custom deck
+- [x] kotoba - agrega custom deck
+- [ ] kotoba - ingresa los primeros 3 unidades del libro
+- [x] kotoba - agregar que puedas subir un cvs
+- [ ] kotoba - finaliza el prototipo
 
 
 ## Personales
 
 - [ ] craft - armar un bot para crafts
+- [ ] seguridad - cambiar contrasenias
 
 
 ## Pendientes
