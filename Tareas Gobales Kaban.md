@@ -12,13 +12,12 @@ kanban-plugin: board
 - [ ] tiktokShop - esperar a tataraVideo
 - [ ] tiktokShop - hacer el primer comercial
 - [ ] webull - esperar al cierre del contrato
+- [ ] Inversiones de Trading con el tiktoker que encontre
 
 
 ## Learn
 
-- [x] kotoba - agrega custom deck
 - [ ] kotoba - ingresa los primeros 3 unidades del libro
-- [x] kotoba - agregar que puedas subir un cvs
 - [ ] kotoba - finaliza el prototipo
 
 
@@ -38,10 +37,16 @@ kanban-plugin: board
 - [ ] Hanita Singing Class
 
 
+## Done
+
+- [x] kotoba - agrega custom deck
+- [x] kotoba - agregar que puedas subir un cvs
+
+
 
 
 %% kanban:settings
 ```
-{"kanban-plugin":"board","list-collapse":[false,false,false,false]}
+{"kanban-plugin":"board","list-collapse":[false,false,false,false,false]}
 ```
 %%
