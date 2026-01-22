@@ -6,18 +6,18 @@ kanban-plugin: board
 
 ## Proyectos
 
-- [ ] tataraVideo - empezar de nuevo
+- [ ] Ordenar un Producto para hacer videos
+- [ ] tokoro - Terminar el desarollo
+- [ ] Inversiones de Trading con el tiktoker que encontre
 - [ ] webull - hacer el trading journal
 - [ ] lenticular - hacer una prueba mas
 - [ ] tiktokShop - esperar a tataraVideo
 - [ ] tiktokShop - hacer el primer comercial
 - [ ] webull - esperar al cierre del contrato
-- [ ] Inversiones de Trading con el tiktoker que encontre
 
 
 ## Learn
 
-- [ ] kotoba - ingresa los primeros 3 unidades del libro
 - [ ] kotoba - finaliza el prototipo
 
 
@@ -25,6 +25,7 @@ kanban-plugin: board
 
 - [ ] craft - armar un bot para crafts
 - [ ] seguridad - cambiar contrasenias
+- [ ] Hacer el Asistente para gym, comida, meditacion, trading y otros
 
 
 ## Pendientes
@@ -39,11 +40,16 @@ kanban-plugin: board
 
 ## Done
 
+
+
+***
+
+## Archive
+
 - [x] kotoba - agrega custom deck
 - [x] kotoba - agregar que puedas subir un cvs
-
-
-
+- [x] kotoba - ingresa los primeros 3 unidades del libro
+- [ ] tataraVideo - empezar de nuevo
 
 %% kanban:settings
 ```
