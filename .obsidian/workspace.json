@@ -11,22 +11,14 @@
             "id": "21c987f129e8da22",
             "type": "leaf",
             "state": {
-              "type": "kanban",
+              "type": "markdown",
               "state": {
-                "file": "Tareas Gobales Kaban.md",
-                "kanbanViewState": {
-                  "kanban-plugin": "board",
-                  "list-collapse": [
-                    false,
-                    false,
-                    false,
-                    false,
-                    false
-                  ]
-                }
+                "file": "02_Notebook/Curso Simplemente Invertir.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-trello",
-              "title": "Tareas Gobales Kaban"
+              "icon": "lucide-file",
+              "title": "Curso Simplemente Invertir"
             }
           }
         ]
@@ -202,6 +194,8 @@
   },
   "active": "21c987f129e8da22",
   "lastOpenFiles": [
+    "02_Notebook/Learning.md",
+    "02_Notebook/Curso Simplemente Invertir.md",
     "Tareas Gobales Kaban.md",
     "doc/CLAUDE.md",
     "Templates/Proyecto_Template.md",
