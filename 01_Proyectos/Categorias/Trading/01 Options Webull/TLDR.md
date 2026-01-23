@@ -31,7 +31,7 @@ Con $3k no te puedes permitir estar "equivocado en análisis". Más variables = 
 Criterios:
 - **IV > 20%** (buena prima)
 - **Liquidez en opciones** (bid-ask spread chico)
-- **Precio $30-$50** (operativo con $3k)
+- **Precio <$30** (operativo con $3k - 100 acciones sin agotar todo capital)
 - **Expirations semanales** (más oportunidades)
 
 ### 3️⃣ Análisis Técnico Mínimo (1 min)
@@ -54,7 +54,7 @@ Vende el put → Cobra prima → Repite
 | IV (Implied Volatility) | > 20%       | Prima más alta = más ganancia  |
 | Spread (bid-ask)        | < $0.05     | Mejor precio de entrada/salida |
 | Liquididad              | OI > 500    | Fácil entrar/salir de posición |
-| Precio del Stock        | $30-$50     | Operativo con $3k de capital   |
+| Precio del Stock        | <$30        | Operativo con $3k (sin agotar margen) |
 | Expirations             | Semanales   | Más oportunidades por mes      |
 
 ---
